@@ -1,0 +1,8 @@
+{
+  "baseParallel": 64,
+  "baseThreads": 16,
+  "maxWarmup": 8.0,
+  "warmupTau": 60.0,
+  "overloadTime": 120,
+  "maxBatchMultiplier": 1000
+}

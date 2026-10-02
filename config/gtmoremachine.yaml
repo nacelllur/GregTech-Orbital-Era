@@ -1,0 +1,46 @@
+# 如果启用，则需要使用无线能源绑定工具绑定电池箱或者变电站来提高无线能量传输上限。
+# If enabled, you need to use a wireless energy binding tool to bind the battery box or substation to increase the wireless energy transfer limit.
+isWirelessRateEnable: true
+
+# 如果启用，则每个维度需要放置维度电网传输装置来绑定维度
+# If enabled, a Dimensional Grid Transmission Device must be placed in each dimension to bind it.
+isWirelessDimensionRateEnable: false
+
+# 如果启用，则需要放置电网存储系统，可以放置多台提高总容量
+# If enabled, Grid Storage Systems must be placed; multiple units can be installed to increase total capacity.
+isWirelessCapacitylimitEnable: false
+
+# HUD设置
+# HUD Settings
+hud:
+  # 设置HUD显示位置
+  # Sets HUD location
+  # 左上角 (left-upper corner)
+  # 右上角 (right-upper corner)
+  # 左下角 (left-bottom corner)
+  # 右下角 (right-bottom corner)
+  # 中上   (middle-upper corner)
+  # 中下   (middle-bottom corner)
+  # 默认值: left-upper
+  # Default: left-upper
+  # Allowed values:
+  # - LeftUpper
+  # - RightUpper
+  # - LeftLower
+  # - RightLower
+  # - MiddleUpper
+  # - MiddleLower
+  hudLocation: LeftUpper
+
+  # HUD水平偏移量
+  # Horizontal offset of HUD.
+  # 默认值: 0
+  # Default: 0
+  hudOffsetX: 0
+
+  # HUD垂直偏移量
+  # Vertical offset of HUD.
+  # 默认值: 0
+  # Default: 0
+  hudOffsetY: 0
+

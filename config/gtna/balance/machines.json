@@ -1,0 +1,21 @@
+{
+  "voidMinerSteamGateAged": {
+    "enabled": true,
+    "denseSteam": {
+      "outputMultiplier": 2,
+      "speedMultiplier": 2.0,
+      "energyMultiplier": 1.5
+    },
+    "superHeatedSteam": {
+      "outputMultiplier": 3,
+      "speedMultiplier": 3.0,
+      "energyMultiplier": 2.0
+    },
+    "insanelySupercriticalSteam": {
+      "outputMultiplier": 5,
+      "speedMultiplier": 5.0,
+      "energyMultiplier": 4.0
+    }
+  },
+  "integratedOreMultiplier": 4
+}

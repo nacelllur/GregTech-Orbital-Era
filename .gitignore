@@ -1,0 +1,47 @@
+# ============================================
+# 格雷科技：星环纪元 (GregTech: Orbital Era)
+# .gitignore —— 发布到 GitHub 前的排除清单
+# ============================================
+
+# ---------- 存档 & 用户数据（好友不需要，且可能含个人信息） ----------
+/saves/
+/local/
+/fancymenu_data/last_world.fmdata
+/usercache.json
+/usernamecache.json
+/launcher_profiles.json
+
+# ---------- 日志 & 崩溃报告 ----------
+/logs/
+/crash-reports/
+*.log
+*.crash
+
+# ---------- 启动器/游戏本体运行时文件（好友用启动器自动下载） ----------
+/assets/
+/libraries/
+/versions/
+/natives/
+/*.jar
+
+# ---------- mod 备份/暂存目录（防止旧版本 mod 混入） ----------
+/mods_backup_*/
+/mods_stash_*/
+*.jar.bak_prev
+*.bak_prev
+
+# ---------- 本地临时数据 & 密码 ----------
+/config/resourceful-config-web.json
+/fancymenu_data/fancymenu_temp/
+/fancymenu_data/browser_*/
+/fancymenu_data/video_thumbnails/
+/gtceu/prospection_cache/
+/authlib-injector.log
+
+# ---------- IDE / 系统文件 ----------
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+Desktop.ini
+.DS_Store

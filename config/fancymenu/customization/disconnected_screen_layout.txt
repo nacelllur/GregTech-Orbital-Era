@@ -1,0 +1,83 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = disconnected_screen
+  render_custom_elements_behind_vanilla = true
+  last_edited_time = 1790917480866
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+}
+
+menu_background {
+  instance_identifier = 19375918-243c-4d27-8d56-5d3b8d6c9642
+  background_type = image
+  show_background = true
+  image_path = [source:local]/config/fancymenu/assets/55534901810-95d2f06788-o.jpg.jpg
+  slide = false
+  repeat_texture = false
+  parallax = false
+  parallax_intensity_x = 0.02
+  parallax_intensity_y = 0.02
+  invert_parallax = false
+  restart_animated_on_menu_load = false
+}
+
+element {
+  element_type = text_v2
+  instance_identifier = orbital_page_tag_disconnected_screen
+  appearance_delay = first_time
+  disappearance_delay = no_delay
+  fade_in_v2 = first_time
+  fade_out = no_fading
+  auto_sizing = false
+  auto_sizing_base_screen_width = 2560
+  auto_sizing_base_screen_height = 1372
+  sticky_anchor = false
+  anchor_point = top-left
+  x = 8
+  y = 8
+  width = 180
+  height = 12
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 50b8260a-3278-4f6f-a677-be766ab07bde
+  [loading_requirement_container_meta:50b8260a-3278-4f6f-a677-be766ab07bde] = [groups:][instances:]
+  enable_parallax = false
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  layer_hidden_in_editor = false
+  advanced_rotation_mode = false
+  advanced_vertical_tilt_mode = false
+  advanced_horizontal_tilt_mode = false
+  should_be_affected_by_decoration_overlays = true
+  in_editor_color = #FFC800FF
+  advanced_posx = -2147483648
+  advanced_posy = -2147483648
+  advanced_width = -2147483648
+  advanced_height = -2147483648
+  stretch_x = false
+  stretch_y = false
+  appearance_delay_seconds = 0.05
+  disappearance_delay_seconds = 1.0
+  fade_in_speed = 1.5
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  parallax_intensity_x = 0.5
+  parallax_intensity_y = 0.5
+  rotation_degrees = 0.0
+  advanced_rotation_degrees = 0.0
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_degrees = 0.0
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_degrees = 0.0
+  source = ORBITAL ERA // DISCONNECTED
+  source_mode = direct
+  base_color = #6FC8DBFF
+  scale = 1.0
+  shadow = true
+}
+

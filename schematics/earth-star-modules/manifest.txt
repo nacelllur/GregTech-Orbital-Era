@@ -1,0 +1,899 @@
+EARTH-STAR 舱室模块清单 (唯一模块 179 个, 来自 230 个舱室)
+源文件: D:/GT-New/schematics/EARTH-STAR (完稿)_1.20.1_1790781572843866682.litematic
+中空化: 目标材料 1594626 -> 移除内部 686706 (剩 907920)
+
+module_01_舱室.litematic  (在船上出现 1 次)
+  尺寸 88x21x75  空气 117509  实体方块 19558  TE 0  文件 3114B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:white_wool x476, minecraft:diorite x412, minecraft:andesite x395, minecraft:polished_deepslate x146, minecraft:polished_andesite x144, minecraft:polished_diorite x144
+
+module_02_舱室.litematic  (在船上出现 1 次)
+  尺寸 49x43x66  空气 92279  实体方块 25590  TE 26  文件 10836B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x4874, minecraft:polished_blackstone x4493, minecraft:deepslate_tiles x1646, minecraft:black_concrete x946, minecraft:light_gray_stained_glass x612, minecraft:polished_andesite x414
+
+module_03_舱室.litematic  (在船上出现 1 次)
+  尺寸 49x43x66  空气 92279  实体方块 25590  TE 26  文件 10739B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x4874, minecraft:polished_blackstone x4493, minecraft:deepslate_tiles x1646, minecraft:black_concrete x946, minecraft:light_gray_stained_glass x612, minecraft:polished_andesite x414
+
+module_04_舱室.litematic  (在船上出现 1 次)
+  尺寸 20x23x54  空气 19052  实体方块 5496  TE 2  文件 2154B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:cyan_terracotta x572, minecraft:smooth_quartz x32
+
+module_05_舱室.litematic  (在船上出现 1 次)
+  尺寸 20x23x54  空气 19052  实体方块 5496  TE 2  文件 2154B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:cyan_terracotta x572, minecraft:smooth_quartz x32
+
+module_06_舱室.litematic  (在船上出现 1 次)
+  尺寸 20x23x54  空气 19052  实体方块 5496  TE 2  文件 2122B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:cyan_terracotta x572, minecraft:smooth_quartz x32
+
+module_07_舱室.litematic  (在船上出现 1 次)
+  尺寸 20x23x54  空气 19052  实体方块 5496  TE 2  文件 2112B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:cyan_terracotta x572, minecraft:smooth_quartz x32
+
+module_08_舱室.litematic  (在船上出现 1 次)
+  尺寸 20x23x53  空气 18708  实体方块 5380  TE 2  文件 2048B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:cyan_terracotta x570
+
+module_09_舱室.litematic  (在船上出现 1 次)
+  尺寸 20x23x53  空气 18708  实体方块 5380  TE 2  文件 2049B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:cyan_terracotta x570
+
+module_10_舱室.litematic  (在船上出现 2 次)
+  尺寸 20x23x53  空气 18708  实体方块 5380  TE 2  文件 2034B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:cyan_terracotta x570
+
+module_11_舱室.litematic  (在船上出现 1 次)
+  尺寸 33x21x33  空气 9792  实体方块 7284  TE 0  文件 7034B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:iron_block x2196, minecraft:polished_blackstone x648, minecraft:blue_ice x428, minecraft:iron_trapdoor x252, minecraft:polished_diorite x200, minecraft:diorite_wall x188
+
+module_12_舱室.litematic  (在船上出现 1 次)
+  尺寸 14x7x187  空气 9270  实体方块 7066  TE 8  文件 2576B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:tinted_glass x849, minecraft:smooth_quartz_stairs x586, minecraft:diorite x120, minecraft:smooth_quartz x108, minecraft:iron_block x80, minecraft:polished_blackstone x48
+
+module_13_舱室.litematic  (在船上出现 1 次)
+  尺寸 14x7x187  空气 9270  实体方块 7066  TE 8  文件 2549B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:tinted_glass x849, minecraft:smooth_quartz_stairs x586, minecraft:diorite x120, minecraft:smooth_quartz x108, minecraft:iron_block x80, minecraft:polished_blackstone x48
+
+module_14_舱室.litematic  (在船上出现 1 次)
+  尺寸 14x7x187  空气 9270  实体方块 7066  TE 8  文件 2585B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:tinted_glass x849, minecraft:smooth_quartz_stairs x586, minecraft:diorite x120, minecraft:smooth_quartz x108, minecraft:iron_block x80, minecraft:polished_blackstone x48
+
+module_15_舱室.litematic  (在船上出现 1 次)
+  尺寸 14x7x187  空气 9270  实体方块 7066  TE 8  文件 2635B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:tinted_glass x849, minecraft:smooth_quartz_stairs x586, minecraft:diorite x120, minecraft:smooth_quartz x108, minecraft:iron_block x80, minecraft:polished_blackstone x48
+
+module_16_舱室.litematic  (在船上出现 2 次)
+  尺寸 49x12x27  空气 7972  实体方块 4440  TE 0  文件 1598B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:black_concrete x946, minecraft:light_gray_stained_glass x476, minecraft:polished_diorite x120, minecraft:tinted_glass x116, minecraft:smooth_quartz_stairs x96, minecraft:smooth_quartz x92
+
+module_17_舱室.litematic  (在船上出现 2 次)
+  尺寸 49x12x27  空气 7972  实体方块 4440  TE 0  文件 1608B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:black_concrete x946, minecraft:light_gray_stained_glass x476, minecraft:polished_diorite x120, minecraft:tinted_glass x116, minecraft:smooth_quartz_stairs x96, minecraft:smooth_quartz x92
+
+module_18_舱室.litematic  (在船上出现 1 次)
+  尺寸 9x20x103  空气 6953  实体方块 6138  TE 0  文件 3319B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x720, minecraft:polished_blackstone x308, minecraft:smooth_stone_slab x238, minecraft:polished_diorite x162, minecraft:iron_block x156, minecraft:polished_andesite_slab x147
+
+module_19_舱室.litematic  (在船上出现 1 次)
+  尺寸 103x20x9  空气 6953  实体方块 6381  TE 0  文件 3715B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x720, minecraft:polished_blackstone x584, minecraft:smooth_stone_slab x238, minecraft:polished_diorite x162, minecraft:iron_block x150, minecraft:polished_andesite_slab x138
+
+module_20_舱室.litematic  (在船上出现 1 次)
+  尺寸 103x20x9  空气 6953  实体方块 6381  TE 0  文件 3817B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x720, minecraft:polished_blackstone x584, minecraft:smooth_stone_slab x238, minecraft:polished_diorite x162, minecraft:iron_block x150, minecraft:polished_andesite_slab x138
+
+module_21_舱室.litematic  (在船上出现 1 次)
+  尺寸 9x20x103  空气 6953  实体方块 6138  TE 0  文件 3341B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x720, minecraft:polished_blackstone x308, minecraft:smooth_stone_slab x238, minecraft:polished_diorite x162, minecraft:iron_block x156, minecraft:polished_andesite_slab x147
+
+module_22_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x35x13  空气 3052  实体方块 2159  TE 0  文件 2142B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x363, minecraft:cyan_terracotta x212, minecraft:gray_wool x172, minecraft:polished_blackstone x44, minecraft:tuff x32, minecraft:smooth_quartz x18
+
+module_23_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x35x13  空气 3052  实体方块 2159  TE 0  文件 2110B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x363, minecraft:cyan_terracotta x212, minecraft:gray_wool x172, minecraft:polished_blackstone x44, minecraft:tuff x32, minecraft:smooth_quartz x18
+
+module_24_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x35x13  空气 3052  实体方块 2161  TE 0  文件 2148B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x363, minecraft:cyan_terracotta x212, minecraft:gray_wool x172, minecraft:polished_blackstone x44, minecraft:tuff x32, minecraft:smooth_quartz x18
+
+module_25_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x35x13  空气 3052  实体方块 2161  TE 0  文件 2115B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x363, minecraft:cyan_terracotta x212, minecraft:gray_wool x172, minecraft:polished_blackstone x44, minecraft:tuff x32, minecraft:smooth_quartz x18
+
+module_26_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x35x13  空气 3052  实体方块 2161  TE 0  文件 2143B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x363, minecraft:cyan_terracotta x212, minecraft:gray_wool x172, minecraft:polished_blackstone x44, minecraft:tuff x32, minecraft:smooth_quartz x20
+
+module_27_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x35x13  空气 3052  实体方块 2161  TE 0  文件 2114B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x363, minecraft:cyan_terracotta x212, minecraft:gray_wool x172, minecraft:polished_blackstone x44, minecraft:tuff x32, minecraft:smooth_quartz x20
+
+module_28_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x35x13  空气 3052  实体方块 2161  TE 0  文件 2143B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x363, minecraft:cyan_terracotta x212, minecraft:gray_wool x172, minecraft:polished_blackstone x44, minecraft:tuff x32, minecraft:smooth_quartz x20
+
+module_29_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x35x13  空气 3052  实体方块 2161  TE 0  文件 2111B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x363, minecraft:cyan_terracotta x212, minecraft:gray_wool x172, minecraft:polished_blackstone x44, minecraft:tuff x32, minecraft:smooth_quartz x20
+
+module_30_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x35x13  空气 3052  实体方块 2161  TE 0  文件 2147B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x363, minecraft:cyan_terracotta x212, minecraft:gray_wool x172, minecraft:polished_blackstone x44, minecraft:tuff x32, minecraft:smooth_quartz x18
+
+module_31_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x35x13  空气 3052  实体方块 2161  TE 0  文件 2114B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x363, minecraft:cyan_terracotta x212, minecraft:gray_wool x172, minecraft:polished_blackstone x44, minecraft:tuff x32, minecraft:smooth_quartz x18
+
+module_32_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x35x13  空气 3052  实体方块 2159  TE 0  文件 2141B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x363, minecraft:cyan_terracotta x212, minecraft:gray_wool x172, minecraft:polished_blackstone x44, minecraft:tuff x32, minecraft:smooth_quartz x18
+
+module_33_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x35x13  空气 3052  实体方块 2159  TE 0  文件 2111B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x363, minecraft:cyan_terracotta x212, minecraft:gray_wool x172, minecraft:polished_blackstone x44, minecraft:tuff x32, minecraft:smooth_quartz x18
+
+module_34_舱室.litematic  (在船上出现 2 次)
+  尺寸 12x13x29  空气 2666  实体方块 1802  TE 64  文件 1593B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_blackstone x288, minecraft:blue_glazed_terracotta x16
+
+module_35_舱室.litematic  (在船上出现 2 次)
+  尺寸 12x13x29  空气 2666  实体方块 1802  TE 64  文件 1633B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_blackstone x288, minecraft:blue_glazed_terracotta x16
+
+module_36_舱室.litematic  (在船上出现 2 次)
+  尺寸 12x13x29  空气 2666  实体方块 1802  TE 64  文件 1595B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_blackstone x288, minecraft:blue_glazed_terracotta x16
+
+module_37_舱室.litematic  (在船上出现 2 次)
+  尺寸 12x13x29  空气 2666  实体方块 1802  TE 64  文件 1607B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_blackstone x288, minecraft:blue_glazed_terracotta x16
+
+module_38_舱室.litematic  (在船上出现 2 次)
+  尺寸 11x27x12  空气 2234  实体方块 1330  TE 16  文件 816B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:blue_glazed_terracotta x16
+
+module_39_舱室.litematic  (在船上出现 2 次)
+  尺寸 11x27x12  空气 2234  实体方块 1330  TE 16  文件 811B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:blue_glazed_terracotta x16
+
+module_40_工坊.litematic  (在船上出现 1 次)
+  尺寸 25x25x17  空气 2038  实体方块 3093  TE 92  文件 4180B
+  名称: 工坊  标牌: (无)
+  内容: minecraft:smooth_quartz x620, minecraft:gray_concrete x617, minecraft:cyan_terracotta x220, minecraft:smooth_stone x132, minecraft:polished_diorite x68, minecraft:gray_glazed_terracotta x68
+
+module_41_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x15x31  空气 1940  实体方块 1480  TE 5  文件 2608B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_concrete x542, minecraft:stripped_warped_hyphae x126, minecraft:cyan_wool x92, minecraft:polished_blackstone x64, minecraft:smooth_quartz x42, minecraft:deepslate_tile_slab x32
+
+module_42_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x15x31  空气 1940  实体方块 1480  TE 5  文件 2587B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_concrete x542, minecraft:stripped_warped_hyphae x126, minecraft:cyan_wool x92, minecraft:polished_blackstone x64, minecraft:smooth_quartz x42, minecraft:deepslate_tile_slab x32
+
+module_43_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x5x63  空气 1539  实体方块 2454  TE 0  文件 1658B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:gray_wool x330, minecraft:black_wool x42, minecraft:smooth_quartz x12, minecraft:polished_andesite x12, minecraft:cyan_terracotta x9, minecraft:diorite_wall x6
+
+module_44_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x5x63  空气 1539  实体方块 2454  TE 0  文件 1560B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:gray_wool x330, minecraft:black_wool x42, minecraft:smooth_quartz x12, minecraft:polished_andesite x12, minecraft:cyan_terracotta x9, minecraft:diorite_wall x6
+
+module_45_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x5x63  空气 1539  实体方块 2454  TE 0  文件 1583B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:gray_wool x330, minecraft:black_wool x42, minecraft:smooth_quartz x12, minecraft:polished_andesite x12, minecraft:cyan_terracotta x9, minecraft:diorite_wall x6
+
+module_46_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x5x63  空气 1539  实体方块 2454  TE 0  文件 1605B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:gray_wool x330, minecraft:black_wool x42, minecraft:smooth_quartz x12, minecraft:polished_andesite x12, minecraft:cyan_terracotta x9, minecraft:diorite_wall x6
+
+module_47_舱室.litematic  (在船上出现 1 次)
+  尺寸 33x7x33  空气 1500  实体方块 3584  TE 0  文件 4672B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:iron_block x832, minecraft:light_gray_concrete x412, minecraft:polished_blackstone x228, minecraft:blue_ice x200, minecraft:iron_trapdoor x120, minecraft:polished_andesite_stairs x112
+
+module_48_舱室.litematic  (在船上出现 1 次)
+  尺寸 42x9x7  空气 1400  实体方块 1246  TE 4  文件 790B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_49_舱室.litematic  (在船上出现 1 次)
+  尺寸 42x9x7  空气 1400  实体方块 1246  TE 4  文件 793B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_50_舱室.litematic  (在船上出现 1 次)
+  尺寸 42x9x7  空气 1400  实体方块 1246  TE 4  文件 789B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_51_舱室.litematic  (在船上出现 1 次)
+  尺寸 42x9x7  空气 1400  实体方块 1246  TE 4  文件 797B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_52_舱室.litematic  (在船上出现 2 次)
+  尺寸 10x7x32  空气 1200  实体方块 1040  TE 0  文件 569B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_53_舱室.litematic  (在船上出现 2 次)
+  尺寸 10x7x32  空气 1200  实体方块 1040  TE 0  文件 571B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_54_舱室.litematic  (在船上出现 2 次)
+  尺寸 10x7x32  空气 1200  实体方块 1040  TE 0  文件 568B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_55_舱室.litematic  (在船上出现 2 次)
+  尺寸 10x7x32  空气 1200  实体方块 1040  TE 0  文件 571B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_56_舱室.litematic  (在船上出现 1 次)
+  尺寸 41x5x14  空气 993  实体方块 1146  TE 0  文件 1291B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x157, minecraft:andesite x24, minecraft:polished_andesite x18, minecraft:polished_blackstone_button x4, minecraft:polished_blackstone x2
+
+module_57_舱室.litematic  (在船上出现 1 次)
+  尺寸 14x5x41  空气 993  实体方块 1146  TE 0  文件 1361B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x157, minecraft:andesite x24, minecraft:polished_andesite x18, minecraft:polished_blackstone_button x4, minecraft:polished_blackstone x2
+
+module_58_舱室.litematic  (在船上出现 1 次)
+  尺寸 14x5x41  空气 993  实体方块 1146  TE 0  文件 1358B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x157, minecraft:andesite x24, minecraft:polished_andesite x18, minecraft:polished_blackstone_button x4, minecraft:polished_blackstone x2
+
+module_59_舱室.litematic  (在船上出现 1 次)
+  尺寸 41x5x14  空气 993  实体方块 1146  TE 0  文件 1293B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x157, minecraft:andesite x24, minecraft:polished_andesite x18, minecraft:polished_blackstone_button x4, minecraft:polished_blackstone x2
+
+module_60_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 990  TE 6  文件 1679B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x218, minecraft:light_gray_concrete x146, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x36, minecraft:polished_andesite_slab x33, minecraft:stripped_mangrove_wood x12
+
+module_61_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 990  TE 6  文件 1681B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x218, minecraft:light_gray_concrete x146, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x36, minecraft:polished_andesite_slab x33, minecraft:stripped_mangrove_wood x12
+
+module_62_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 1395  TE 6  文件 2101B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x339, minecraft:light_gray_concrete x146, minecraft:polished_andesite_slab x45, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x34, minecraft:gray_wool x32
+
+module_63_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 1395  TE 6  文件 2099B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x339, minecraft:light_gray_concrete x146, minecraft:polished_andesite_slab x45, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x34, minecraft:gray_wool x32
+
+module_64_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 1395  TE 6  文件 2139B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x339, minecraft:light_gray_concrete x146, minecraft:polished_andesite_slab x45, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x34, minecraft:gray_wool x32
+
+module_65_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 1395  TE 6  文件 2140B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x339, minecraft:light_gray_concrete x146, minecraft:polished_andesite_slab x45, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x34, minecraft:gray_wool x32
+
+module_66_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 990  TE 6  文件 1642B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x218, minecraft:light_gray_concrete x146, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x36, minecraft:polished_andesite_slab x33, minecraft:stripped_mangrove_wood x12
+
+module_67_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 990  TE 6  文件 1643B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x218, minecraft:light_gray_concrete x146, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x36, minecraft:polished_andesite_slab x33, minecraft:stripped_mangrove_wood x12
+
+module_68_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 990  TE 6  文件 1663B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x218, minecraft:light_gray_concrete x146, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x36, minecraft:polished_andesite_slab x33, minecraft:stripped_mangrove_wood x12
+
+module_69_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 990  TE 6  文件 1673B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x218, minecraft:light_gray_concrete x146, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x36, minecraft:polished_andesite_slab x33, minecraft:stripped_mangrove_wood x12
+
+module_70_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 1380  TE 6  文件 2129B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x339, minecraft:light_gray_concrete x146, minecraft:polished_andesite_slab x45, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x34, minecraft:gray_wool x32
+
+module_71_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 1380  TE 6  文件 2126B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x339, minecraft:light_gray_concrete x146, minecraft:polished_andesite_slab x45, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x34, minecraft:gray_wool x32
+
+module_72_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 1380  TE 6  文件 2048B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x339, minecraft:light_gray_concrete x146, minecraft:polished_andesite_slab x45, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x34, minecraft:gray_wool x32
+
+module_73_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 1380  TE 6  文件 2058B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x339, minecraft:light_gray_concrete x146, minecraft:polished_andesite_slab x45, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x34, minecraft:gray_wool x32
+
+module_74_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 990  TE 6  文件 1701B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x218, minecraft:light_gray_concrete x146, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x36, minecraft:polished_andesite_slab x33, minecraft:stripped_mangrove_wood x12
+
+module_75_熔炼.litematic  (在船上出现 1 次)
+  尺寸 15x16x20  空气 943  实体方块 990  TE 6  文件 1699B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:cyan_terracotta x218, minecraft:light_gray_concrete x146, minecraft:deepslate_tiles x39, minecraft:polished_andesite_stairs x36, minecraft:polished_andesite_slab x33, minecraft:stripped_mangrove_wood x12
+
+module_76_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x5x31  空气 939  实体方块 1065  TE 0  文件 705B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_andesite x6, minecraft:black_wool x6
+
+module_77_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x5x31  空气 939  实体方块 1065  TE 0  文件 713B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_andesite x6, minecraft:black_wool x6
+
+module_78_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x5x31  空气 939  实体方块 1065  TE 0  文件 715B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_andesite x6, minecraft:black_wool x6
+
+module_79_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x5x31  空气 939  实体方块 1065  TE 0  文件 706B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_andesite x6, minecraft:black_wool x6
+
+module_80_舱室.litematic  (在船上出现 2 次)
+  尺寸 5x15x24  空气 858  实体方块 942  TE 0  文件 429B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_81_舱室.litematic  (在船上出现 2 次)
+  尺寸 5x15x24  空气 858  实体方块 942  TE 0  文件 425B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_82_舱室.litematic  (在船上出现 6 次)
+  尺寸 7x33x8  空气 668  实体方块 1128  TE 0  文件 635B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x260, minecraft:polished_blackstone_button x2
+
+module_83_舱室.litematic  (在船上出现 6 次)
+  尺寸 7x33x8  空气 668  实体方块 1128  TE 0  文件 634B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x260, minecraft:polished_blackstone_button x2
+
+module_84_舱室.litematic  (在船上出现 1 次)
+  尺寸 7x6x33  空气 620  实体方块 766  TE 18  文件 1357B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_85_熔炼.litematic  (在船上出现 2 次)
+  尺寸 47x7x9  空气 537  实体方块 1033  TE 18  文件 1869B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x243, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_86_熔炼.litematic  (在船上出现 2 次)
+  尺寸 47x7x9  空气 537  实体方块 1033  TE 18  文件 1872B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x243, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_87_熔炼.litematic  (在船上出现 1 次)
+  尺寸 47x7x9  空气 537  实体方块 1042  TE 18  文件 1911B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x244, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_88_熔炼.litematic  (在船上出现 1 次)
+  尺寸 47x7x9  空气 537  实体方块 1042  TE 18  文件 1912B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x244, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_89_熔炼.litematic  (在船上出现 1 次)
+  尺寸 47x7x9  空气 537  实体方块 1042  TE 18  文件 1910B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x244, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_90_熔炼.litematic  (在船上出现 1 次)
+  尺寸 47x7x9  空气 537  实体方块 1042  TE 18  文件 1912B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x244, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_91_熔炼.litematic  (在船上出现 1 次)
+  尺寸 47x7x9  空气 537  实体方块 1042  TE 18  文件 1882B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x244, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_92_熔炼.litematic  (在船上出现 1 次)
+  尺寸 47x7x9  空气 537  实体方块 1042  TE 18  文件 1895B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x244, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_93_熔炼.litematic  (在船上出现 1 次)
+  尺寸 47x7x9  空气 537  实体方块 1042  TE 18  文件 1885B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x244, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_94_熔炼.litematic  (在船上出现 1 次)
+  尺寸 47x7x9  空气 537  实体方块 1042  TE 18  文件 1897B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x244, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_95_熔炼.litematic  (在船上出现 2 次)
+  尺寸 47x7x9  空气 537  实体方块 1033  TE 18  文件 1895B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x243, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_96_熔炼.litematic  (在船上出现 2 次)
+  尺寸 47x7x9  空气 537  实体方块 1033  TE 18  文件 1891B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x243, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_97_熔炼.litematic  (在船上出现 2 次)
+  尺寸 47x7x9  空气 537  实体方块 1033  TE 18  文件 1907B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x243, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_98_熔炼.litematic  (在船上出现 2 次)
+  尺寸 47x7x9  空气 537  实体方块 1033  TE 18  文件 1895B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x243, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_99_熔炼.litematic  (在船上出现 2 次)
+  尺寸 47x7x9  空气 537  实体方块 1042  TE 18  文件 1890B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x244, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_100_熔炼.litematic  (在船上出现 2 次)
+  尺寸 47x7x9  空气 537  实体方块 1042  TE 18  文件 1894B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x244, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_101_熔炼.litematic  (在船上出现 2 次)
+  尺寸 47x7x9  空气 537  实体方块 1042  TE 18  文件 1924B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x244, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_102_熔炼.litematic  (在船上出现 2 次)
+  尺寸 47x7x9  空气 537  实体方块 1042  TE 18  文件 1914B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x244, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_103_熔炼.litematic  (在船上出现 2 次)
+  尺寸 47x7x9  空气 537  实体方块 1033  TE 18  文件 1877B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x243, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_104_熔炼.litematic  (在船上出现 2 次)
+  尺寸 47x7x9  空气 537  实体方块 1033  TE 18  文件 1880B
+  名称: 熔炼  标牌: (无)
+  内容: minecraft:light_gray_concrete x243, minecraft:light_gray_glazed_terracotta x91, minecraft:polished_andesite x68, minecraft:light_gray_wool x41, minecraft:sea_lantern x36, minecraft:andesite_stairs x32
+
+module_105_舱室.litematic  (在船上出现 6 次)
+  尺寸 9x25x5  空气 483  实体方块 642  TE 0  文件 661B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_106_舱室.litematic  (在船上出现 6 次)
+  尺寸 9x25x5  空气 483  实体方块 642  TE 0  文件 661B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_107_舱室.litematic  (在船上出现 1 次)
+  尺寸 9x25x5  空气 483  实体方块 642  TE 0  文件 693B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_108_舱室.litematic  (在船上出现 1 次)
+  尺寸 9x25x5  空气 483  实体方块 642  TE 0  文件 685B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_109_舱室.litematic  (在船上出现 1 次)
+  尺寸 9x25x5  空气 483  实体方块 642  TE 0  文件 691B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_110_舱室.litematic  (在船上出现 1 次)
+  尺寸 9x25x5  空气 483  实体方块 642  TE 0  文件 681B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_111_舱室.litematic  (在船上出现 2 次)
+  尺寸 7x5x35  空气 470  实体方块 755  TE 0  文件 433B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x20, minecraft:polished_blackstone x5
+
+module_112_舱室.litematic  (在船上出现 2 次)
+  尺寸 7x5x35  空气 470  实体方块 755  TE 0  文件 442B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:deepslate_tiles x20, minecraft:polished_blackstone x5
+
+module_113_舱室.litematic  (在船上出现 1 次)
+  尺寸 43x3x11  空气 369  实体方块 1050  TE 0  文件 564B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_114_舱室.litematic  (在船上出现 1 次)
+  尺寸 43x3x11  空气 369  实体方块 1050  TE 0  文件 566B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_115_舱室.litematic  (在船上出现 1 次)
+  尺寸 43x3x11  空气 369  实体方块 1050  TE 0  文件 568B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_116_舱室.litematic  (在船上出现 1 次)
+  尺寸 43x3x11  空气 369  实体方块 1050  TE 0  文件 559B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_117_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1004B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_118_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1000B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_119_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1003B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_120_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1001B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_121_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1015B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_122_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1000B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_123_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1009B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_124_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1004B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_125_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1007B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_126_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1005B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_127_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1008B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_128_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1004B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_129_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1008B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_130_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1005B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_131_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1004B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_132_舱室.litematic  (在船上出现 1 次)
+  尺寸 10x8x10  空气 312  实体方块 424  TE 0  文件 1006B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:light_gray_concrete x72
+
+module_133_舱室.litematic  (在船上出现 1 次)
+  尺寸 7x7x14  空气 300  实体方块 384  TE 8  文件 824B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_134_舱室.litematic  (在船上出现 1 次)
+  尺寸 7x7x14  空气 300  实体方块 384  TE 8  文件 828B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_135_舱室.litematic  (在船上出现 1 次)
+  尺寸 7x7x14  空气 300  实体方块 384  TE 8  文件 816B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_136_舱室.litematic  (在船上出现 1 次)
+  尺寸 7x7x14  空气 300  实体方块 384  TE 8  文件 827B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_137_舱室.litematic  (在船上出现 1 次)
+  尺寸 7x7x13  空气 275  实体方块 362  TE 8  文件 1075B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_138_舱室.litematic  (在船上出现 1 次)
+  尺寸 7x6x20  空气 272  实体方块 539  TE 0  文件 634B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x88
+
+module_139_舱室.litematic  (在船上出现 1 次)
+  尺寸 43x3x9  空气 207  实体方块 856  TE 0  文件 581B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x50, minecraft:andesite x2
+
+module_140_舱室.litematic  (在船上出现 1 次)
+  尺寸 43x3x9  空气 207  实体方块 856  TE 0  文件 566B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz x50, minecraft:andesite x2
+
+module_141_舱室.litematic  (在船上出现 2 次)
+  尺寸 6x5x17  空气 180  实体方块 330  TE 0  文件 440B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_142_舱室.litematic  (在船上出现 2 次)
+  尺寸 6x5x17  空气 180  实体方块 330  TE 0  文件 440B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_143_舱室.litematic  (在船上出现 1 次)
+  尺寸 15x6x15  空气 156  实体方块 560  TE 0  文件 1296B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_blackstone x100, minecraft:iron_block x100, minecraft:polished_diorite x56, minecraft:polished_andesite x20, minecraft:polished_blackstone_button x16, minecraft:polished_andesite_stairs x12
+
+module_144_舱室.litematic  (在船上出现 1 次)
+  尺寸 5x3x51  空气 144  实体方块 583  TE 0  文件 958B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz_slab x3
+
+module_145_舱室.litematic  (在船上出现 1 次)
+  尺寸 5x3x51  空气 144  实体方块 583  TE 0  文件 949B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz_slab x3
+
+module_146_舱室.litematic  (在船上出现 1 次)
+  尺寸 5x3x51  空气 144  实体方块 583  TE 0  文件 954B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz_slab x3
+
+module_147_舱室.litematic  (在船上出现 1 次)
+  尺寸 5x3x51  空气 144  实体方块 583  TE 0  文件 960B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:smooth_quartz_slab x3
+
+module_148_舱室.litematic  (在船上出现 1 次)
+  尺寸 15x6x15  空气 113  实体方块 719  TE 0  文件 1540B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:iron_block x72, minecraft:light_gray_stained_glass x40, minecraft:waxed_copper_block x40, minecraft:smooth_quartz x34, minecraft:lightning_rod x32, minecraft:polished_deepslate x19
+
+module_149_舱室.litematic  (在船上出现 1 次)
+  尺寸 15x6x15  空气 113  实体方块 719  TE 0  文件 1468B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:iron_block x72, minecraft:light_gray_stained_glass x40, minecraft:waxed_copper_block x40, minecraft:smooth_quartz x34, minecraft:lightning_rod x32, minecraft:polished_deepslate x19
+
+module_150_舱室.litematic  (在船上出现 1 次)
+  尺寸 15x6x15  空气 113  实体方块 719  TE 0  文件 1480B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:iron_block x72, minecraft:light_gray_stained_glass x40, minecraft:waxed_copper_block x40, minecraft:smooth_quartz x34, minecraft:lightning_rod x32, minecraft:polished_deepslate x19
+
+module_151_舱室.litematic  (在船上出现 1 次)
+  尺寸 15x6x15  空气 113  实体方块 719  TE 0  文件 1541B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:iron_block x72, minecraft:light_gray_stained_glass x40, minecraft:waxed_copper_block x40, minecraft:smooth_quartz x34, minecraft:lightning_rod x32, minecraft:polished_deepslate x19
+
+module_152_舱室.litematic  (在船上出现 1 次)
+  尺寸 15x6x15  空气 113  实体方块 700  TE 0  文件 1581B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:iron_block x72, minecraft:light_gray_stained_glass x40, minecraft:waxed_copper_block x40, minecraft:smooth_quartz x34, minecraft:lightning_rod x32, minecraft:polished_blackstone x17
+
+module_153_舱室.litematic  (在船上出现 1 次)
+  尺寸 15x6x15  空气 113  实体方块 700  TE 0  文件 1481B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:iron_block x72, minecraft:light_gray_stained_glass x40, minecraft:waxed_copper_block x40, minecraft:smooth_quartz x34, minecraft:lightning_rod x32, minecraft:polished_blackstone x17
+
+module_154_舱室.litematic  (在船上出现 1 次)
+  尺寸 15x6x15  空气 113  实体方块 700  TE 0  文件 1477B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:iron_block x72, minecraft:light_gray_stained_glass x40, minecraft:waxed_copper_block x40, minecraft:smooth_quartz x34, minecraft:lightning_rod x32, minecraft:polished_blackstone x17
+
+module_155_舱室.litematic  (在船上出现 1 次)
+  尺寸 15x6x15  空气 113  实体方块 700  TE 0  文件 1586B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:iron_block x72, minecraft:light_gray_stained_glass x40, minecraft:waxed_copper_block x40, minecraft:smooth_quartz x34, minecraft:lightning_rod x32, minecraft:polished_blackstone x17
+
+module_156_舱室.litematic  (在船上出现 1 次)
+  尺寸 17x6x7  空气 105  实体方块 601  TE 0  文件 726B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:waxed_copper_block x70, minecraft:iron_block x60, minecraft:lightning_rod x28, minecraft:waxed_cut_copper_slab x14, minecraft:polished_blackstone x8, minecraft:iron_trapdoor x7
+
+module_157_舱室.litematic  (在船上出现 1 次)
+  尺寸 17x6x7  空气 105  实体方块 601  TE 0  文件 721B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:waxed_copper_block x70, minecraft:iron_block x60, minecraft:lightning_rod x28, minecraft:waxed_cut_copper_slab x14, minecraft:polished_blackstone x8, minecraft:iron_trapdoor x7
+
+module_158_舱室.litematic  (在船上出现 1 次)
+  尺寸 17x6x7  空气 105  实体方块 601  TE 0  文件 725B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:waxed_copper_block x70, minecraft:iron_block x60, minecraft:lightning_rod x28, minecraft:waxed_cut_copper_slab x14, minecraft:polished_blackstone x8, minecraft:iron_trapdoor x7
+
+module_159_舱室.litematic  (在船上出现 1 次)
+  尺寸 17x6x7  空气 105  实体方块 601  TE 0  文件 716B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:waxed_copper_block x70, minecraft:iron_block x60, minecraft:lightning_rod x28, minecraft:waxed_cut_copper_slab x14, minecraft:polished_blackstone x8, minecraft:iron_trapdoor x7
+
+module_160_舱室.litematic  (在船上出现 1 次)
+  尺寸 7x6x17  空气 95  实体方块 607  TE 0  文件 714B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:waxed_copper_block x70, minecraft:iron_block x60, minecraft:lightning_rod x48, minecraft:waxed_cut_copper_slab x14, minecraft:iron_trapdoor x1
+
+module_161_舱室.litematic  (在船上出现 1 次)
+  尺寸 7x6x17  空气 95  实体方块 607  TE 0  文件 719B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:waxed_copper_block x70, minecraft:iron_block x60, minecraft:lightning_rod x48, minecraft:waxed_cut_copper_slab x14, minecraft:iron_trapdoor x1
+
+module_162_舱室.litematic  (在船上出现 1 次)
+  尺寸 7x6x17  空气 95  实体方块 607  TE 0  文件 706B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:waxed_copper_block x70, minecraft:iron_block x60, minecraft:lightning_rod x48, minecraft:waxed_cut_copper_slab x14, minecraft:iron_trapdoor x1
+
+module_163_舱室.litematic  (在船上出现 1 次)
+  尺寸 7x6x17  空气 95  实体方块 607  TE 0  文件 717B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:waxed_copper_block x70, minecraft:iron_block x60, minecraft:lightning_rod x48, minecraft:waxed_cut_copper_slab x14, minecraft:iron_trapdoor x1
+
+module_164_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x4x13  空气 85  实体方块 348  TE 0  文件 878B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_blackstone x33, minecraft:coal_block x14, minecraft:deepslate_tiles x8, minecraft:polished_deepslate x7, minecraft:iron_trapdoor x5, minecraft:polished_deepslate_wall x4
+
+module_165_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x4x13  空气 85  实体方块 348  TE 0  文件 915B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_blackstone x33, minecraft:coal_block x14, minecraft:deepslate_tiles x8, minecraft:polished_deepslate x7, minecraft:iron_trapdoor x5, minecraft:polished_deepslate_wall x4
+
+module_166_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x4x13  空气 85  实体方块 348  TE 0  文件 922B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_blackstone x33, minecraft:coal_block x14, minecraft:deepslate_tiles x8, minecraft:polished_deepslate x7, minecraft:iron_trapdoor x5, minecraft:polished_deepslate_wall x4
+
+module_167_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x4x13  空气 85  实体方块 348  TE 0  文件 889B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_blackstone x33, minecraft:coal_block x14, minecraft:deepslate_tiles x8, minecraft:polished_deepslate x7, minecraft:iron_trapdoor x5, minecraft:polished_deepslate_wall x4
+
+module_168_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x4x13  空气 85  实体方块 332  TE 0  文件 846B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_blackstone x33, minecraft:coal_block x14, minecraft:deepslate_tiles x8, minecraft:iron_trapdoor x6, minecraft:cyan_terracotta x1, minecraft:polished_diorite_slab x1
+
+module_169_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x4x13  空气 85  实体方块 332  TE 0  文件 891B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_blackstone x33, minecraft:coal_block x14, minecraft:deepslate_tiles x8, minecraft:iron_trapdoor x6, minecraft:cyan_terracotta x1, minecraft:polished_diorite_slab x1
+
+module_170_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x4x13  空气 85  实体方块 332  TE 0  文件 887B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_blackstone x33, minecraft:coal_block x14, minecraft:deepslate_tiles x8, minecraft:iron_trapdoor x6, minecraft:cyan_terracotta x1, minecraft:polished_diorite_slab x1
+
+module_171_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x4x13  空气 85  实体方块 332  TE 0  文件 853B
+  名称: 舱室  标牌: (无)
+  内容: minecraft:polished_blackstone x33, minecraft:coal_block x14, minecraft:deepslate_tiles x8, minecraft:iron_trapdoor x6, minecraft:cyan_terracotta x1, minecraft:polished_diorite_slab x1
+
+module_172_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x4x5  空气 66  实体方块 194  TE 0  文件 410B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_173_舱室.litematic  (在船上出现 1 次)
+  尺寸 5x4x13  空气 66  实体方块 194  TE 0  文件 420B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_174_舱室.litematic  (在船上出现 1 次)
+  尺寸 5x4x13  空气 66  实体方块 194  TE 0  文件 417B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_175_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x4x5  空气 66  实体方块 194  TE 0  文件 410B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_176_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x4x5  空气 66  实体方块 194  TE 0  文件 410B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_177_舱室.litematic  (在船上出现 1 次)
+  尺寸 5x4x13  空气 66  实体方块 194  TE 0  文件 417B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_178_舱室.litematic  (在船上出现 1 次)
+  尺寸 5x4x13  空气 66  实体方块 194  TE 0  文件 419B
+  名称: 舱室  标牌: (无)
+  内容: 
+
+module_179_舱室.litematic  (在船上出现 1 次)
+  尺寸 13x4x5  空气 66  实体方块 194  TE 0  文件 407B
+  名称: 舱室  标牌: (无)
+  内容: 
+

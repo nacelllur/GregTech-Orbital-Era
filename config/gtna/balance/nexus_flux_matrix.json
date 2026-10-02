@@ -1,0 +1,84 @@
+{
+  "tiers": {
+    "LV": {
+      "capacity": "160000",
+      "transfer": "2000",
+      "crossDimension": false
+    },
+    "MV": {
+      "capacity": "1500000",
+      "transfer": "8000",
+      "crossDimension": false
+    },
+    "HV": {
+      "capacity": "10000000",
+      "transfer": "32000",
+      "crossDimension": false
+    },
+    "EV": {
+      "capacity": "50000000",
+      "transfer": "128000",
+      "crossDimension": true
+    },
+    "IV": {
+      "capacity": "250000000",
+      "transfer": "512000",
+      "crossDimension": true
+    },
+    "LuV": {
+      "capacity": "1500000000",
+      "transfer": "2048000",
+      "crossDimension": true
+    },
+    "ZPM": {
+      "capacity": "15000000000",
+      "transfer": "8192000",
+      "crossDimension": true
+    },
+    "UV": {
+      "capacity": "150000000000",
+      "transfer": "32768000",
+      "crossDimension": true
+    },
+    "UHV": {
+      "capacity": "3000000000000",
+      "transfer": "131072000",
+      "crossDimension": true
+    },
+    "UEV": {
+      "capacity": "50000000000000",
+      "transfer": "524288000",
+      "crossDimension": true
+    },
+    "UIV": {
+      "capacity": "900000000000000",
+      "transfer": "2097152000",
+      "crossDimension": true
+    },
+    "UXV": {
+      "capacity": "15000000000000000",
+      "transfer": "8388608000",
+      "crossDimension": true
+    },
+    "OpV": {
+      "capacity": "250000000000000000",
+      "transfer": "33554432000",
+      "crossDimension": true
+    },
+    "MAX": {
+      "capacity": "5000000000000000000",
+      "transfer": "500000000000000000000000",
+      "crossDimension": true
+    }
+  },
+  "efficiency": {
+    "mode": "AVERAGE",
+    "baseLossPercentAtLV": 15.0,
+    "minimumEfficiency": 0.85,
+    "maximumEfficiency": 1.0
+  },
+  "limits": {
+    "maxConnectionsPerPlayer": 256,
+    "maxNetworksPerPlayer": 1
+  }
+}

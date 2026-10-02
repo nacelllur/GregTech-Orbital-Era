@@ -1,0 +1,29 @@
+{
+  "groups": {
+    "infinityCovers": {
+      "enabled": false,
+      "hideFromJei": true,
+      "disableRecipes": true
+    },
+    "quantumCosmicNexusArmor": {
+      "enabled": false,
+      "hideFromJei": true,
+      "disableRecipes": true
+    },
+    "realityRipper": {
+      "enabled": false,
+      "hideFromJei": true,
+      "disableRecipes": true
+    },
+    "infiniteInputParts": {
+      "enabled": true,
+      "hideFromJei": false,
+      "disableRecipes": false
+    },
+    "outputBoostParts": {
+      "enabled": true,
+      "hideFromJei": false,
+      "disableRecipes": false
+    }
+  }
+}

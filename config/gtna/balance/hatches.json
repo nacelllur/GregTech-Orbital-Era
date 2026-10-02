@@ -1,0 +1,68 @@
+{
+  "threadHatch": {
+    "extraThreadsByTier": {
+      "ZPM": 1,
+      "UV": 3,
+      "UHV": 7,
+      "UEV": 15,
+      "UIV": 31,
+      "UXV": 63,
+      "OpV": 127,
+      "MAX": 255
+    }
+  },
+  "accelerateHatch": {
+    "baseMinDurationPercentByTier": {
+      "LV": 50,
+      "MV": 48,
+      "HV": 46,
+      "EV": 44,
+      "IV": 42,
+      "LuV": 40,
+      "ZPM": 38,
+      "UV": 36,
+      "UHV": 34,
+      "UEV": 32,
+      "UIV": 30,
+      "UXV": 28,
+      "OpV": 26,
+      "MAX": 24
+    },
+    "penaltyPerTierBelowRecipe": 20,
+    "minimumFinalPercent": 1,
+    "maximumFinalPercent": 100
+  },
+  "overclockHatch": {
+    "divisorByTier": {
+      "UV": 2,
+      "UHV": 3,
+      "UEV": 4,
+      "UIV": 5,
+      "UXV": 6,
+      "OpV": 7,
+      "MAX": 8
+    }
+  },
+  "outputBoostHatch": {
+    "multiplierByTier": {
+      "ULV": 25,
+      "LV": 25,
+      "MV": 25,
+      "HV": 50,
+      "EV": 100,
+      "IV": 250,
+      "LuV": 500,
+      "ZPM": 1000,
+      "UV": 2500,
+      "UHV": 5000,
+      "UEV": 10000,
+      "UIV": 25000,
+      "UXV": 50000,
+      "OpV": 100000,
+      "MAX": 250000
+    },
+    "affectsItems": true,
+    "affectsFluids": true,
+    "stackMultipleHatches": true
+  }
+}

@@ -1,0 +1,13 @@
+#Range: > 0
+slotvalue = 36
+#Whether to turn on the new button style
+pagebutton = true
+#Whether to turn on the jump box
+jumpbox = true
+#Whether to turn on the Quick Put patterns button
+patternsinto = true
+#Whether to turn on the Quick Put patterns button
+editmode = true
+#Whether to turn on the Quick Put patterns button
+balancemode = true
+

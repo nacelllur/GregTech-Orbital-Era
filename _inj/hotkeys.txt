@@ -1,0 +1,954 @@
+Compiled from "Hotkeys.java"
+public class fi.dy.masa.litematica.config.Hotkeys {
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey ADD_SELECTION_BOX;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey CLONE_SELECTION;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey DELETE_SELECTION_BOX;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey EASY_PLACE_ACTIVATION;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey EASY_PLACE_TOGGLE;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey EXECUTE_OPERATION;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey INVERT_GHOST_BLOCK_RENDER_STATE;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey INVERT_OVERLAY_RENDER_STATE;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey LAYER_MODE_NEXT;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey LAYER_MODE_PREVIOUS;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey LAYER_NEXT;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey LAYER_PREVIOUS;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey LAYER_SET_HERE;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey NUDGE_SELECTION_NEGATIVE;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey NUDGE_SELECTION_POSITIVE;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey MOVE_ENTIRE_SELECTION;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey OPEN_GUI_AREA_SETTINGS;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey OPEN_GUI_LOADED_SCHEMATICS;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey OPEN_GUI_MAIN_MENU;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey OPEN_GUI_MATERIAL_LIST;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey OPEN_GUI_PLACEMENT_SETTINGS;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey OPEN_GUI_SCHEMATIC_PLACEMENTS;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey OPEN_GUI_SCHEMATIC_PROJECTS;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey OPEN_GUI_SCHEMATIC_VERIFIER;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey OPEN_GUI_SELECTION_MANAGER;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey OPEN_GUI_SETTINGS;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey OPERATION_MODE_CHANGE_MODIFIER;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey PICK_BLOCK_FIRST;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey PICK_BLOCK_LAST;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey PICK_BLOCK_TOGGLE;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey RENDER_INFO_OVERLAY;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey RENDER_OVERLAY_THROUGH_BLOCKS;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey RERENDER_SCHEMATIC;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SAVE_AREA_AS_IN_MEMORY_SCHEMATIC;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SAVE_AREA_AS_SCHEMATIC_TO_FILE;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SCHEMATIC_EDIT_BREAK_ALL_EXCEPT;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SCHEMATIC_EDIT_BREAK_ALL;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SCHEMATIC_EDIT_BREAK_DIRECTION;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SCHEMATIC_EDIT_REPLACE_ALL;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SCHEMATIC_EDIT_REPLACE_BLOCK;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SCHEMATIC_EDIT_REPLACE_DIRECTION;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SCHEMATIC_VERSION_CYCLE_MODIFIER;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SCHEMATIC_VERSION_CYCLE_NEXT;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SCHEMATIC_VERSION_CYCLE_PREVIOUS;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SELECTION_GRAB_MODIFIER;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SELECTION_GROW_HOTKEY;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SELECTION_GROW_MODIFIER;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SELECTION_NUDGE_MODIFIER;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SELECTION_MODE_CYCLE;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SELECTION_SHRINK_HOTKEY;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SET_AREA_ORIGIN;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SET_SELECTION_BOX_POSITION_1;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey SET_SELECTION_BOX_POSITION_2;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOGGLE_ALL_RENDERING;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOGGLE_AREA_SELECTION_RENDERING;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOGGLE_SCHEMATIC_RENDERING;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOGGLE_INFO_OVERLAY_RENDERING;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOGGLE_OVERLAY_RENDERING;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOGGLE_OVERLAY_OUTLINE_RENDERING;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOGGLE_OVERLAY_SIDE_RENDERING;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOGGLE_PLACEMENT_BOXES_RENDERING;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOGGLE_PLACEMENT_RESTRICTION;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOGGLE_SCHEMATIC_BLOCK_RENDERING;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOGGLE_SIGN_TEXT_PASTE;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOGGLE_TRANSLUCENT_RENDERING;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOGGLE_VERIFIER_OVERLAY_RENDERING;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOOL_ENABLED_TOGGLE;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOOL_PLACE_CORNER_1;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOOL_PLACE_CORNER_2;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOOL_SELECT_ELEMENTS;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOOL_SELECT_MODIFIER_BLOCK_1;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey TOOL_SELECT_MODIFIER_BLOCK_2;
+
+  public static final fi.dy.masa.malilib.config.options.ConfigHotkey UNLOAD_CURRENT_SCHEMATIC;
+
+  public static final java.util.List<fi.dy.masa.malilib.config.options.ConfigHotkey> HOTKEY_LIST;
+
+  public fi.dy.masa.litematica.config.Hotkeys();
+    Code:
+       0: aload_0
+       1: invokespecial #86                 // Method java/lang/Object."<init>":()V
+       4: return
+
+  static {};
+    Code:
+       0: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+       3: dup
+       4: ldc           #93                 // String addSelectionBox
+       6: ldc           #95                 // String M,A
+       8: ldc           #97                 // String Add a new selection box (position 1) here
+      10: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+      13: putstatic     #102                // Field ADD_SELECTION_BOX:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+      16: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+      19: dup
+      20: ldc           #104                // String cloneSelection
+      22: ldc           #106                // String
+      24: ldc           #108                // String Quickly clone the current area selection.\nThis basically just creates an in-memory-only schematic,\nand then creates a placement of that schematic and selects it,\nand also switches the tool mode to the Paste mode.
+      26: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+      29: putstatic     #110                // Field CLONE_SELECTION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+      32: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+      35: dup
+      36: ldc           #112                // String deleteSelectionBox
+      38: ldc           #106                // String
+      40: ldc           #114                // String Delete the currently selected box
+      42: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+      45: putstatic     #116                // Field DELETE_SELECTION_BOX:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+      48: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+      51: dup
+      52: ldc           #118                // String easyPlaceUseKey
+      54: ldc           #120                // String BUTTON_2
+      56: getstatic     #126                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.PRESS_ALLOWEXTRA:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+      59: ldc           #128                // String When the easyPlaceMode is enabled, this key is used for placing the blocks
+      61: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+      64: putstatic     #133                // Field EASY_PLACE_ACTIVATION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+      67: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+      70: dup
+      71: ldc           #135                // String easyPlaceToggle
+      73: ldc           #106                // String
+      75: ldc           #137                // String Allows quickly toggling on/off the Easy Place mode
+      77: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+      80: putstatic     #139                // Field EASY_PLACE_TOGGLE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+      83: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+      86: dup
+      87: ldc           #141                // String executeOperation
+      89: ldc           #106                // String
+      91: ldc           #143                // String Execute the currently selected tool operation with the\ncurrent selection or placement in the Fill, Replace,\nPaste Schematic etc. modes
+      93: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+      96: putstatic     #145                // Field EXECUTE_OPERATION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+      99: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     102: dup
+     103: ldc           #147                // String invertGhostBlockRenderState
+     105: ldc           #106                // String
+     107: ldc           #149                // String Inverts the schematic/ghost block rendering status\nwhile this keybind is held down
+     109: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     112: putstatic     #151                // Field INVERT_GHOST_BLOCK_RENDER_STATE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     115: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     118: dup
+     119: ldc           #153                // String invertOverlayRenderState
+     121: ldc           #106                // String
+     123: ldc           #155                // String Inverts the Overlay rendering status while this keybind is held down
+     125: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     128: putstatic     #157                // Field INVERT_OVERLAY_RENDER_STATE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     131: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     134: dup
+     135: ldc           #159                // String layerModeNext
+     137: ldc           #161                // String M,PAGE_UP
+     139: ldc           #163                // String Cycle the rendering mode (all, layers) forward
+     141: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     144: putstatic     #165                // Field LAYER_MODE_NEXT:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     147: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     150: dup
+     151: ldc           #167                // String layerModePrevious
+     153: ldc           #169                // String M,PAGE_DOWN
+     155: ldc           #171                // String Cycle the rendering mode (all, layers) backwards
+     157: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     160: putstatic     #173                // Field LAYER_MODE_PREVIOUS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     163: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     166: dup
+     167: ldc           #175                // String layerNext
+     169: ldc           #177                // String PAGE_UP
+     171: ldc           #179                // String Move the rendered layer selection up
+     173: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     176: putstatic     #181                // Field LAYER_NEXT:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     179: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     182: dup
+     183: ldc           #183                // String layerPrevious
+     185: ldc           #185                // String PAGE_DOWN
+     187: ldc           #187                // String Move the rendered layer selection down
+     189: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     192: putstatic     #189                // Field LAYER_PREVIOUS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     195: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     198: dup
+     199: ldc           #191                // String layerSetHere
+     201: ldc           #106                // String
+     203: ldc           #193                // String Set the Render Layer to the player\'s current position
+     205: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     208: putstatic     #195                // Field LAYER_SET_HERE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     211: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     214: dup
+     215: ldc           #197                // String nudgeSelectionNegative
+     217: ldc           #106                // String
+     219: ldc           #199                // String Nudge the current selection in the \"negative\" direction\nThis is basically the same as mouse wheel down\nwith the Nudge modifier pressed
+     221: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     224: putstatic     #201                // Field NUDGE_SELECTION_NEGATIVE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     227: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     230: dup
+     231: ldc           #203                // String nudgeSelectionPositive
+     233: ldc           #106                // String
+     235: ldc           #205                // String Nudge the current selection in the \"positive\" direction\nThis is basically the same as mouse wheel up\nwith the Nudge modifier pressed
+     237: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     240: putstatic     #207                // Field NUDGE_SELECTION_POSITIVE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     243: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     246: dup
+     247: ldc           #209                // String moveEntireSelection
+     249: ldc           #106                // String
+     251: ldc           #211                // String Move the entire current selection here
+     253: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     256: putstatic     #213                // Field MOVE_ENTIRE_SELECTION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     259: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     262: dup
+     263: ldc           #215                // String openGuiAreaSettings
+     265: ldc           #217                // String KP_MULTIPLY
+     267: ldc           #219                // String Open the Area Settings GUI for the currently selected area
+     269: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     272: putstatic     #221                // Field OPEN_GUI_AREA_SETTINGS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     275: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     278: dup
+     279: ldc           #223                // String openGuiLoadedSchematics
+     281: ldc           #106                // String
+     283: ldc           #225                // String Open the Loaded Schematic GUI
+     285: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     288: putstatic     #227                // Field OPEN_GUI_LOADED_SCHEMATICS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     291: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     294: dup
+     295: ldc           #229                // String openGuiMainMenu
+     297: ldc           #231                // String M
+     299: getstatic     #234                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.RELEASE_EXCLUSIVE:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     302: ldc           #236                // String Open the Litematica main menu
+     304: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     307: putstatic     #238                // Field OPEN_GUI_MAIN_MENU:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     310: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     313: dup
+     314: ldc           #240                // String openGuiMaterialList
+     316: ldc           #242                // String M,L
+     318: ldc           #244                // String Open the Material List GUI for the currently\nselected schematic placement
+     320: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     323: putstatic     #246                // Field OPEN_GUI_MATERIAL_LIST:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     326: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     329: dup
+     330: ldc           #248                // String openGuiPlacementSettings
+     332: ldc           #250                // String KP_SUBTRACT
+     334: ldc           #252                // String Open the Placement Settings GUI for the currently\nselected placement or sub-region
+     336: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     339: putstatic     #254                // Field OPEN_GUI_PLACEMENT_SETTINGS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     342: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     345: dup
+     346: ldc_w         #256                // String openGuiSchematicPlacements
+     349: ldc_w         #258                // String M,P
+     352: ldc_w         #260                // String Open the Schematic Placements GUI
+     355: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     358: putstatic     #262                // Field OPEN_GUI_SCHEMATIC_PLACEMENTS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     361: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     364: dup
+     365: ldc_w         #264                // String openGuiSchematicProjects
+     368: ldc           #106                // String
+     370: ldc_w         #266                // String Open the Schematic Projects GUI
+     373: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     376: putstatic     #268                // Field OPEN_GUI_SCHEMATIC_PROJECTS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     379: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     382: dup
+     383: ldc_w         #270                // String openGuiSchematicVerifier
+     386: ldc_w         #272                // String M,V
+     389: ldc_w         #274                // String Open the Schematic Verifier GUI for the currently\nselected schematic placement
+     392: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     395: putstatic     #276                // Field OPEN_GUI_SCHEMATIC_VERIFIER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     398: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     401: dup
+     402: ldc_w         #278                // String openGuiSelectionManager
+     405: ldc_w         #280                // String M,S
+     408: ldc_w         #282                // String Open the Area Selection manager GUI
+     411: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     414: putstatic     #284                // Field OPEN_GUI_SELECTION_MANAGER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     417: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     420: dup
+     421: ldc_w         #286                // String openGuiSettings
+     424: ldc_w         #288                // String M,C
+     427: ldc_w         #290                // String Open the Config GUI
+     430: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     433: putstatic     #292                // Field OPEN_GUI_SETTINGS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     436: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     439: dup
+     440: ldc_w         #294                // String operationModeChangeModifier
+     443: ldc_w         #296                // String LEFT_CONTROL
+     446: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     449: ldc_w         #301                // String The modifier key to quickly change the operation mode.\nHold this and scroll while holding the \"tool item\" to quickly cycle the mode.
+     452: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     455: putstatic     #303                // Field OPERATION_MODE_CHANGE_MODIFIER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     458: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     461: dup
+     462: ldc_w         #305                // String pickBlockFirst
+     465: ldc_w         #307                // String BUTTON_3
+     468: getstatic     #126                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.PRESS_ALLOWEXTRA:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     471: ldc_w         #309                // String A key to pick block the first\nschematic block ray traced to
+     474: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     477: putstatic     #311                // Field PICK_BLOCK_FIRST:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     480: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     483: dup
+     484: ldc_w         #313                // String pickBlockLast
+     487: ldc           #106                // String
+     489: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     492: ldc_w         #315                // String A key to pick block the last schematic block\nray traced to, before the first (possible) client world\nblock ray traced to. Basically this would get\nyou the block you could place against an existing block.
+     495: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     498: putstatic     #317                // Field PICK_BLOCK_LAST:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     501: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     504: dup
+     505: ldc_w         #319                // String pickBlockToggle
+     508: ldc_w         #321                // String M,BUTTON_3
+     511: ldc_w         #323                // String A hotkey to toggle the pick block toggle option in the\nGeneric configs. This is provided as a quick way to enable\nor disable the pick block keys, if they interfere with something.
+     514: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     517: putstatic     #325                // Field PICK_BLOCK_TOGGLE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     520: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     523: dup
+     524: ldc_w         #327                // String renderInfoOverlay
+     527: ldc_w         #329                // String I
+     530: getstatic     #126                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.PRESS_ALLOWEXTRA:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     533: ldc_w         #331                // String The key that enables rendering the block info overlay.\nUse NONE for not requiring a key to be pressed.\nDisable the similarly named option in the Visuals\nconfigs to disable the overlay completely.
+     536: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     539: putstatic     #333                // Field RENDER_INFO_OVERLAY:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     542: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     545: dup
+     546: ldc_w         #335                // String renderOverlayThroughBlocks
+     549: ldc_w         #337                // String RIGHT_CONTROL
+     552: getstatic     #126                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.PRESS_ALLOWEXTRA:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     555: ldc_w         #339                // String A hotkey to allow the overlays to render through blocks.\nThis is just a quicker way to temporarily enable\nthe same thing that the \'schematicOverlayRenderThroughBlocks\' option in Visuals does.
+     558: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     561: putstatic     #341                // Field RENDER_OVERLAY_THROUGH_BLOCKS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     564: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     567: dup
+     568: ldc_w         #343                // String rerenderSchematic
+     571: ldc_w         #345                // String F3,M
+     574: ldc_w         #347                // String Hotkey to refresh/redraw only the schematic, instead of\nhaving to refresh the vanilla terrain too with F3 + A
+     577: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     580: putstatic     #349                // Field RERENDER_SCHEMATIC:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     583: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     586: dup
+     587: ldc_w         #351                // String saveAreaAsInMemorySchematic
+     590: ldc           #106                // String
+     592: ldc_w         #353                // String Save the current Area Selection as an in-memory Schematic
+     595: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     598: putstatic     #355                // Field SAVE_AREA_AS_IN_MEMORY_SCHEMATIC:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     601: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     604: dup
+     605: ldc_w         #357                // String saveAreaAsSchematicToFile
+     608: ldc_w         #359                // String LEFT_CONTROL,LEFT_ALT,S
+     611: ldc_w         #361                // String Save the current Area Selection as a Schematic to a file
+     614: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     617: putstatic     #363                // Field SAVE_AREA_AS_SCHEMATIC_TO_FILE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     620: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     623: dup
+     624: ldc_w         #365                // String schematicEditBreakAllExcept
+     627: ldc           #106                // String
+     629: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     632: ldc_w         #367                // String Modifier key to activate the \"break everything except\"\nmode/function in the Schematic Edit tool mode.\nBasically when you hold this key and punch a schematic block,\nall other blocks except this block will be removed from the schematic.
+     635: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     638: putstatic     #369                // Field SCHEMATIC_EDIT_BREAK_ALL_EXCEPT:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     641: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     644: dup
+     645: ldc_w         #371                // String schematicEditBreakPlaceAll
+     648: ldc           #106                // String
+     650: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     653: ldc_w         #373                // String Modifier key to activate the \"break all identical blocks\"\nfunction in the Schematic Edit tool mode
+     656: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     659: putstatic     #375                // Field SCHEMATIC_EDIT_BREAK_ALL:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     662: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     665: dup
+     666: ldc_w         #377                // String schematicEditBreakPlaceDirection
+     669: ldc           #106                // String
+     671: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     674: ldc_w         #379                // String Modifier key to activate the directional/continuous\nbreak or place function in the Schematic Edit tool mode
+     677: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     680: putstatic     #381                // Field SCHEMATIC_EDIT_BREAK_DIRECTION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     683: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     686: dup
+     687: ldc_w         #383                // String schematicEditReplaceAll
+     690: ldc           #106                // String
+     692: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     695: ldc_w         #385                // String Modifier key to activate the \"replace all identical\"\nreplace mode/function in the Schematic Edit tool mode
+     698: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     701: putstatic     #387                // Field SCHEMATIC_EDIT_REPLACE_ALL:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     704: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     707: dup
+     708: ldc_w         #389                // String schematicEditReplaceBlock
+     711: ldc           #106                // String
+     713: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     716: ldc_w         #391                // String Modifier key to activate the \"replace block type\"\nreplace mode/function in the Schematic Edit tool mode
+     719: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     722: putstatic     #393                // Field SCHEMATIC_EDIT_REPLACE_BLOCK:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     725: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     728: dup
+     729: ldc_w         #395                // String schematicEditReplaceDirection
+     732: ldc           #106                // String
+     734: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     737: ldc_w         #397                // String Modifier key to activate the directional/continuous\nreplace mode/function in the Schematic Edit tool mode
+     740: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     743: putstatic     #399                // Field SCHEMATIC_EDIT_REPLACE_DIRECTION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     746: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     749: dup
+     750: ldc_w         #401                // String schematicVersionCycleModifier
+     753: ldc           #106                // String
+     755: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     758: ldc_w         #403                // String The modifier key to hold to be able to use the mouse wheel\nto cycle through the schematic versions in the Version Control tool mode
+     761: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     764: putstatic     #405                // Field SCHEMATIC_VERSION_CYCLE_MODIFIER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     767: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     770: dup
+     771: ldc_w         #407                // String schematicVersionCycleNext
+     774: ldc           #106                // String
+     776: ldc_w         #409                // String A hotkey to cycle to the next schematic version in the Version Control tool mode
+     779: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     782: putstatic     #411                // Field SCHEMATIC_VERSION_CYCLE_NEXT:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     785: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     788: dup
+     789: ldc_w         #413                // String schematicVersionCyclePrevious
+     792: ldc           #106                // String
+     794: ldc_w         #409                // String A hotkey to cycle to the next schematic version in the Version Control tool mode
+     797: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     800: putstatic     #415                // Field SCHEMATIC_VERSION_CYCLE_PREVIOUS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     803: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     806: dup
+     807: ldc_w         #417                // String selectionGrabModifier
+     810: ldc           #106                // String
+     812: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     815: ldc_w         #419                // String The modifier key to hold to \"grab\" a selection\nbox or corner for cursor moving.
+     818: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     821: putstatic     #421                // Field SELECTION_GRAB_MODIFIER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     824: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     827: dup
+     828: ldc_w         #423                // String selectionGrow
+     831: ldc           #106                // String
+     833: ldc_w         #425                // String The action hotkey to auto-grow the selection box around\nany adjacent/diagonally connected blocks
+     836: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     839: putstatic     #427                // Field SELECTION_GROW_HOTKEY:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     842: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     845: dup
+     846: ldc_w         #429                // String selectionGrowModifier
+     849: ldc           #106                // String
+     851: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     854: ldc_w         #431                // String The modifier key to hold to grow or shrink\na selection box while scrolling
+     857: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     860: putstatic     #433                // Field SELECTION_GROW_MODIFIER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     863: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     866: dup
+     867: ldc_w         #435                // String selectionNudgeModifier
+     870: ldc_w         #437                // String LEFT_ALT
+     873: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+     876: ldc_w         #439                // String The modifier key to hold while scrolling\nto nudge the selected area or corner
+     879: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+     882: putstatic     #441                // Field SELECTION_NUDGE_MODIFIER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     885: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     888: dup
+     889: ldc_w         #443                // String selectionModeCycle
+     892: ldc_w         #445                // String LEFT_CONTROL,M
+     895: ldc_w         #447                // String Change the mode between Corners and Cuboid\nin the Area Selection mode
+     898: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     901: putstatic     #449                // Field SELECTION_MODE_CYCLE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     904: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     907: dup
+     908: ldc_w         #451                // String selectionShrink
+     911: ldc           #106                // String
+     913: ldc_w         #453                // String The action hotkey to shrink the selection box so that there\nisn\'t any empty space (empty layers) on any side
+     916: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     919: putstatic     #455                // Field SELECTION_SHRINK_HOTKEY:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     922: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     925: dup
+     926: ldc_w         #457                // String setAreaOrigin
+     929: ldc           #106                // String
+     931: ldc_w         #459                // String Set/move the origin point of the current\narea selection to the player\'s position
+     934: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     937: putstatic     #461                // Field SET_AREA_ORIGIN:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     940: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     943: dup
+     944: ldc_w         #463                // String setSelectionBoxPosition1
+     947: ldc           #106                // String
+     949: ldc_w         #465                // String Set the first position of the currently selected\nbox to the player\'s position
+     952: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     955: putstatic     #467                // Field SET_SELECTION_BOX_POSITION_1:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     958: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     961: dup
+     962: ldc_w         #469                // String setSelectionBoxPosition2
+     965: ldc           #106                // String
+     967: ldc_w         #471                // String Set the second position of the currently selected\nbox to the player\'s position
+     970: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     973: putstatic     #473                // Field SET_SELECTION_BOX_POSITION_2:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     976: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+     979: dup
+     980: ldc_w         #475                // String toggleAllRendering
+     983: ldc_w         #477                // String M,R
+     986: ldc_w         #479                // String Toggle all rendering on/off
+     989: ldc_w         #481                // String All Rendering
+     992: invokespecial #484                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+     995: putstatic     #486                // Field TOGGLE_ALL_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+     998: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1001: dup
+    1002: ldc_w         #488                // String toggleAreaSelectionBoxesRendering
+    1005: ldc           #106                // String
+    1007: ldc_w         #490                // String Toggle Area Selection boxes rendering on/off
+    1010: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1013: putstatic     #492                // Field TOGGLE_AREA_SELECTION_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1016: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1019: dup
+    1020: ldc_w         #494                // String toggleSchematicRendering
+    1023: ldc_w         #496                // String M,G
+    1026: ldc_w         #498                // String Toggle schematic rendering (blocks & overlay) on/off
+    1029: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1032: putstatic     #500                // Field TOGGLE_SCHEMATIC_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1035: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1038: dup
+    1039: ldc_w         #502                // String toggleInfoOverlayRendering
+    1042: ldc           #106                // String
+    1044: ldc_w         #504                // String Toggle the info overlay rendering (for hovered block info)
+    1047: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1050: putstatic     #506                // Field TOGGLE_INFO_OVERLAY_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1053: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1056: dup
+    1057: ldc_w         #508                // String toggleOverlayRendering
+    1060: ldc           #106                // String
+    1062: ldc_w         #510                // String Toggle the block overlay rendering on/off
+    1065: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1068: putstatic     #512                // Field TOGGLE_OVERLAY_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1071: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1074: dup
+    1075: ldc_w         #514                // String toggleOverlayOutlineRendering
+    1078: ldc           #106                // String
+    1080: ldc_w         #516                // String Toggle the block overlay outline rendering on/off
+    1083: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1086: putstatic     #518                // Field TOGGLE_OVERLAY_OUTLINE_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1089: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1092: dup
+    1093: ldc_w         #520                // String toggleOverlaySideRendering
+    1096: ldc           #106                // String
+    1098: ldc_w         #522                // String Toggle the block overlay side rendering on/off
+    1101: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1104: putstatic     #524                // Field TOGGLE_OVERLAY_SIDE_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1107: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1110: dup
+    1111: ldc_w         #526                // String togglePlacementBoxesRendering
+    1114: ldc           #106                // String
+    1116: ldc_w         #528                // String Toggle Schematic Placement boxes rendering on/off
+    1119: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1122: putstatic     #530                // Field TOGGLE_PLACEMENT_BOXES_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1125: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1128: dup
+    1129: ldc_w         #532                // String togglePlacementRestriction
+    1132: ldc           #106                // String
+    1134: ldc_w         #534                // String A hotkey to toggle the placement restriction mode
+    1137: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1140: putstatic     #536                // Field TOGGLE_PLACEMENT_RESTRICTION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1143: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1146: dup
+    1147: ldc_w         #538                // String toggleSchematicBlockRendering
+    1150: ldc           #106                // String
+    1152: ldc_w         #540                // String Toggle schematic block rendering on/off
+    1155: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1158: putstatic     #542                // Field TOGGLE_SCHEMATIC_BLOCK_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1161: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1164: dup
+    1165: ldc_w         #544                // String toggleSignTextPaste
+    1168: ldc           #106                // String
+    1170: ldc_w         #546                // String Toggle the signTextPaste config value (in Generic category)
+    1173: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1176: putstatic     #548                // Field TOGGLE_SIGN_TEXT_PASTE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1179: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1182: dup
+    1183: ldc_w         #550                // String toggleTranslucentRendering
+    1186: ldc           #106                // String
+    1188: ldc_w         #552                // String Toggle translucent vs. opaque ghost block rendering
+    1191: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1194: putstatic     #554                // Field TOGGLE_TRANSLUCENT_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1197: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1200: dup
+    1201: ldc_w         #556                // String toggleVerifierOverlayRendering
+    1204: ldc           #106                // String
+    1206: ldc_w         #558                // String Toggle the Schematic Verifier overlay rendering
+    1209: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1212: putstatic     #560                // Field TOGGLE_VERIFIER_OVERLAY_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1215: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1218: dup
+    1219: ldc_w         #562                // String toolEnabledToggle
+    1222: ldc_w         #564                // String M,T
+    1225: ldc_w         #566                // String The keybind to toggle the \"tool\" item functionality on/off
+    1228: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1231: putstatic     #568                // Field TOOL_ENABLED_TOGGLE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1234: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1237: dup
+    1238: ldc_w         #570                // String toolPlaceCorner1
+    1241: ldc_w         #572                // String BUTTON_1
+    1244: getstatic     #126                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.PRESS_ALLOWEXTRA:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+    1247: ldc_w         #574                // String The button to use while holding the \"tool\" item\nto place the primary/first corner
+    1250: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+    1253: putstatic     #576                // Field TOOL_PLACE_CORNER_1:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1256: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1259: dup
+    1260: ldc_w         #578                // String toolPlaceCorner2
+    1263: ldc           #120                // String BUTTON_2
+    1265: getstatic     #126                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.PRESS_ALLOWEXTRA:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+    1268: ldc_w         #580                // String The button to use while holding the \"tool\" item\nto place the second corner
+    1271: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+    1274: putstatic     #582                // Field TOOL_PLACE_CORNER_2:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1277: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1280: dup
+    1281: ldc_w         #584                // String toolSelectElements
+    1284: ldc_w         #307                // String BUTTON_3
+    1287: getstatic     #126                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.PRESS_ALLOWEXTRA:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+    1290: ldc_w         #586                // String The button to use to select corners or boxes\nwhile holding the \"tool\" item
+    1293: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+    1296: putstatic     #588                // Field TOOL_SELECT_ELEMENTS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1299: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1302: dup
+    1303: ldc_w         #590                // String toolSelectModifierBlock1
+    1306: ldc_w         #437                // String LEFT_ALT
+    1309: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+    1312: ldc_w         #592                // String The modifier key to hold while using the \'toolSelectElements\'\nhotkey, to select the primary block type to use in some of the tool modes
+    1315: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+    1318: putstatic     #594                // Field TOOL_SELECT_MODIFIER_BLOCK_1:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1321: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1324: dup
+    1325: ldc_w         #596                // String toolSelectModifierBlock2
+    1328: ldc_w         #598                // String LEFT_SHIFT
+    1331: getstatic     #299                // Field fi/dy/masa/malilib/hotkeys/KeybindSettings.MODIFIER_INGAME:Lfi/dy/masa/malilib/hotkeys/KeybindSettings;
+    1334: ldc_w         #600                // String The modifier key to hold while using the \'toolSelectElements\'\nhotkey, to select the secondary block type to use in some of the tool modes
+    1337: invokespecial #131                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Lfi/dy/masa/malilib/hotkeys/KeybindSettings;Ljava/lang/String;)V
+    1340: putstatic     #602                // Field TOOL_SELECT_MODIFIER_BLOCK_2:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1343: new           #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1346: dup
+    1347: ldc_w         #604                // String unloadCurrentSchematic
+    1350: ldc           #106                // String
+    1352: ldc_w         #606                // String Unloads the schematic of the currently selected placement,and thus also removes all placements created from it\n
+    1355: invokespecial #100                // Method fi/dy/masa/malilib/config/options/ConfigHotkey."<init>":(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    1358: putstatic     #608                // Field UNLOAD_CURRENT_SCHEMATIC:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1361: getstatic     #102                // Field ADD_SELECTION_BOX:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1364: getstatic     #110                // Field CLONE_SELECTION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1367: getstatic     #116                // Field DELETE_SELECTION_BOX:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1370: getstatic     #133                // Field EASY_PLACE_ACTIVATION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1373: getstatic     #139                // Field EASY_PLACE_TOGGLE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1376: getstatic     #145                // Field EXECUTE_OPERATION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1379: getstatic     #151                // Field INVERT_GHOST_BLOCK_RENDER_STATE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1382: getstatic     #157                // Field INVERT_OVERLAY_RENDER_STATE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1385: getstatic     #165                // Field LAYER_MODE_NEXT:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1388: getstatic     #173                // Field LAYER_MODE_PREVIOUS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1391: getstatic     #181                // Field LAYER_NEXT:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1394: getstatic     #189                // Field LAYER_PREVIOUS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1397: bipush        61
+    1399: anewarray     #91                 // class fi/dy/masa/malilib/config/options/ConfigHotkey
+    1402: dup
+    1403: iconst_0
+    1404: getstatic     #195                // Field LAYER_SET_HERE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1407: aastore
+    1408: dup
+    1409: iconst_1
+    1410: getstatic     #201                // Field NUDGE_SELECTION_NEGATIVE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1413: aastore
+    1414: dup
+    1415: iconst_2
+    1416: getstatic     #207                // Field NUDGE_SELECTION_POSITIVE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1419: aastore
+    1420: dup
+    1421: iconst_3
+    1422: getstatic     #213                // Field MOVE_ENTIRE_SELECTION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1425: aastore
+    1426: dup
+    1427: iconst_4
+    1428: getstatic     #221                // Field OPEN_GUI_AREA_SETTINGS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1431: aastore
+    1432: dup
+    1433: iconst_5
+    1434: getstatic     #227                // Field OPEN_GUI_LOADED_SCHEMATICS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1437: aastore
+    1438: dup
+    1439: bipush        6
+    1441: getstatic     #238                // Field OPEN_GUI_MAIN_MENU:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1444: aastore
+    1445: dup
+    1446: bipush        7
+    1448: getstatic     #246                // Field OPEN_GUI_MATERIAL_LIST:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1451: aastore
+    1452: dup
+    1453: bipush        8
+    1455: getstatic     #254                // Field OPEN_GUI_PLACEMENT_SETTINGS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1458: aastore
+    1459: dup
+    1460: bipush        9
+    1462: getstatic     #262                // Field OPEN_GUI_SCHEMATIC_PLACEMENTS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1465: aastore
+    1466: dup
+    1467: bipush        10
+    1469: getstatic     #268                // Field OPEN_GUI_SCHEMATIC_PROJECTS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1472: aastore
+    1473: dup
+    1474: bipush        11
+    1476: getstatic     #276                // Field OPEN_GUI_SCHEMATIC_VERIFIER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1479: aastore
+    1480: dup
+    1481: bipush        12
+    1483: getstatic     #284                // Field OPEN_GUI_SELECTION_MANAGER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1486: aastore
+    1487: dup
+    1488: bipush        13
+    1490: getstatic     #292                // Field OPEN_GUI_SETTINGS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1493: aastore
+    1494: dup
+    1495: bipush        14
+    1497: getstatic     #303                // Field OPERATION_MODE_CHANGE_MODIFIER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1500: aastore
+    1501: dup
+    1502: bipush        15
+    1504: getstatic     #311                // Field PICK_BLOCK_FIRST:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1507: aastore
+    1508: dup
+    1509: bipush        16
+    1511: getstatic     #317                // Field PICK_BLOCK_LAST:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1514: aastore
+    1515: dup
+    1516: bipush        17
+    1518: getstatic     #325                // Field PICK_BLOCK_TOGGLE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1521: aastore
+    1522: dup
+    1523: bipush        18
+    1525: getstatic     #333                // Field RENDER_INFO_OVERLAY:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1528: aastore
+    1529: dup
+    1530: bipush        19
+    1532: getstatic     #341                // Field RENDER_OVERLAY_THROUGH_BLOCKS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1535: aastore
+    1536: dup
+    1537: bipush        20
+    1539: getstatic     #349                // Field RERENDER_SCHEMATIC:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1542: aastore
+    1543: dup
+    1544: bipush        21
+    1546: getstatic     #355                // Field SAVE_AREA_AS_IN_MEMORY_SCHEMATIC:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1549: aastore
+    1550: dup
+    1551: bipush        22
+    1553: getstatic     #363                // Field SAVE_AREA_AS_SCHEMATIC_TO_FILE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1556: aastore
+    1557: dup
+    1558: bipush        23
+    1560: getstatic     #375                // Field SCHEMATIC_EDIT_BREAK_ALL:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1563: aastore
+    1564: dup
+    1565: bipush        24
+    1567: getstatic     #369                // Field SCHEMATIC_EDIT_BREAK_ALL_EXCEPT:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1570: aastore
+    1571: dup
+    1572: bipush        25
+    1574: getstatic     #381                // Field SCHEMATIC_EDIT_BREAK_DIRECTION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1577: aastore
+    1578: dup
+    1579: bipush        26
+    1581: getstatic     #387                // Field SCHEMATIC_EDIT_REPLACE_ALL:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1584: aastore
+    1585: dup
+    1586: bipush        27
+    1588: getstatic     #393                // Field SCHEMATIC_EDIT_REPLACE_BLOCK:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1591: aastore
+    1592: dup
+    1593: bipush        28
+    1595: getstatic     #399                // Field SCHEMATIC_EDIT_REPLACE_DIRECTION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1598: aastore
+    1599: dup
+    1600: bipush        29
+    1602: getstatic     #405                // Field SCHEMATIC_VERSION_CYCLE_MODIFIER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1605: aastore
+    1606: dup
+    1607: bipush        30
+    1609: getstatic     #411                // Field SCHEMATIC_VERSION_CYCLE_NEXT:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1612: aastore
+    1613: dup
+    1614: bipush        31
+    1616: getstatic     #415                // Field SCHEMATIC_VERSION_CYCLE_PREVIOUS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1619: aastore
+    1620: dup
+    1621: bipush        32
+    1623: getstatic     #421                // Field SELECTION_GRAB_MODIFIER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1626: aastore
+    1627: dup
+    1628: bipush        33
+    1630: getstatic     #427                // Field SELECTION_GROW_HOTKEY:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1633: aastore
+    1634: dup
+    1635: bipush        34
+    1637: getstatic     #433                // Field SELECTION_GROW_MODIFIER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1640: aastore
+    1641: dup
+    1642: bipush        35
+    1644: getstatic     #441                // Field SELECTION_NUDGE_MODIFIER:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1647: aastore
+    1648: dup
+    1649: bipush        36
+    1651: getstatic     #449                // Field SELECTION_MODE_CYCLE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1654: aastore
+    1655: dup
+    1656: bipush        37
+    1658: getstatic     #455                // Field SELECTION_SHRINK_HOTKEY:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1661: aastore
+    1662: dup
+    1663: bipush        38
+    1665: getstatic     #461                // Field SET_AREA_ORIGIN:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1668: aastore
+    1669: dup
+    1670: bipush        39
+    1672: getstatic     #467                // Field SET_SELECTION_BOX_POSITION_1:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1675: aastore
+    1676: dup
+    1677: bipush        40
+    1679: getstatic     #473                // Field SET_SELECTION_BOX_POSITION_2:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1682: aastore
+    1683: dup
+    1684: bipush        41
+    1686: getstatic     #486                // Field TOGGLE_ALL_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1689: aastore
+    1690: dup
+    1691: bipush        42
+    1693: getstatic     #492                // Field TOGGLE_AREA_SELECTION_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1696: aastore
+    1697: dup
+    1698: bipush        43
+    1700: getstatic     #506                // Field TOGGLE_INFO_OVERLAY_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1703: aastore
+    1704: dup
+    1705: bipush        44
+    1707: getstatic     #512                // Field TOGGLE_OVERLAY_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1710: aastore
+    1711: dup
+    1712: bipush        45
+    1714: getstatic     #518                // Field TOGGLE_OVERLAY_OUTLINE_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1717: aastore
+    1718: dup
+    1719: bipush        46
+    1721: getstatic     #524                // Field TOGGLE_OVERLAY_SIDE_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1724: aastore
+    1725: dup
+    1726: bipush        47
+    1728: getstatic     #530                // Field TOGGLE_PLACEMENT_BOXES_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1731: aastore
+    1732: dup
+    1733: bipush        48
+    1735: getstatic     #536                // Field TOGGLE_PLACEMENT_RESTRICTION:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1738: aastore
+    1739: dup
+    1740: bipush        49
+    1742: getstatic     #542                // Field TOGGLE_SCHEMATIC_BLOCK_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1745: aastore
+    1746: dup
+    1747: bipush        50
+    1749: getstatic     #500                // Field TOGGLE_SCHEMATIC_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1752: aastore
+    1753: dup
+    1754: bipush        51
+    1756: getstatic     #548                // Field TOGGLE_SIGN_TEXT_PASTE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1759: aastore
+    1760: dup
+    1761: bipush        52
+    1763: getstatic     #554                // Field TOGGLE_TRANSLUCENT_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1766: aastore
+    1767: dup
+    1768: bipush        53
+    1770: getstatic     #560                // Field TOGGLE_VERIFIER_OVERLAY_RENDERING:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1773: aastore
+    1774: dup
+    1775: bipush        54
+    1777: getstatic     #568                // Field TOOL_ENABLED_TOGGLE:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1780: aastore
+    1781: dup
+    1782: bipush        55
+    1784: getstatic     #576                // Field TOOL_PLACE_CORNER_1:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1787: aastore
+    1788: dup
+    1789: bipush        56
+    1791: getstatic     #582                // Field TOOL_PLACE_CORNER_2:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1794: aastore
+    1795: dup
+    1796: bipush        57
+    1798: getstatic     #588                // Field TOOL_SELECT_ELEMENTS:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1801: aastore
+    1802: dup
+    1803: bipush        58
+    1805: getstatic     #594                // Field TOOL_SELECT_MODIFIER_BLOCK_1:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1808: aastore
+    1809: dup
+    1810: bipush        59
+    1812: getstatic     #602                // Field TOOL_SELECT_MODIFIER_BLOCK_2:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1815: aastore
+    1816: dup
+    1817: bipush        60
+    1819: getstatic     #608                // Field UNLOAD_CURRENT_SCHEMATIC:Lfi/dy/masa/malilib/config/options/ConfigHotkey;
+    1822: aastore
+    1823: invokestatic  #614                // Method com/google/common/collect/ImmutableList.of:(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;[Ljava/lang/Object;)Lcom/google/common/collect/ImmutableList;
+    1826: putstatic     #616                // Field HOTKEY_LIST:Ljava/util/List;
+    1829: return
+}
