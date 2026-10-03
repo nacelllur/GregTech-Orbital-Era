@@ -31,6 +31,8 @@
 *.bak_prev
 
 # ---------- 本地临时数据 & 密码 ----------
+# JEI 按世界存档的书签/搜索历史（个人数据）
+/config/jei/world/
 /config/resourceful-config-web.json
 /fancymenu_data/fancymenu_temp/
 /fancymenu_data/browser_*/
