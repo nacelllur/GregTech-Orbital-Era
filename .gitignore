@@ -7,6 +7,7 @@
 /saves/
 /local/
 /fancymenu_data/last_world.fmdata
+/fancymenu_data/buddy/
 /usercache.json
 /usernamecache.json
 /launcher_profiles.json
@@ -16,6 +17,16 @@
 /crash-reports/
 *.log
 *.crash
+
+# ---------- 开发/逆向调试残留（与整合包无关） ----------
+/_inj/
+/_gto/
+/_hpca/
+/_gtna_src/
+/_gt753_src/
+/_downloads/
+/_removed_mods/
+/_patch*/
 
 # ---------- 启动器/游戏本体运行时文件（好友用启动器自动下载） ----------
 /assets/
