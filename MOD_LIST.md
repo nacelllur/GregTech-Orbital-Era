@@ -64,7 +64,7 @@
 - `gtmutils-2.10.2.jar` — gtmutils-2.10.2.jar (v?, 0.6 MB)
 - `gtna-0.5.1.jar` — gtna-0.5.1.jar (v?, 10.6 MB)
 - `gtnaddons-1.0.0.jar` — gtnaddons-1.0.0.jar (v?, 0.0 MB)
-- `gtncore-1.20.1-0.1.0.jar` — GT-New Core (v0.1.0, 0.2 MB)
+- `gtoecore-1.20.1-0.1.0.jar` — GTOE Core (v0.1.0, 0.2 MB)
 - `gtnn-1.20.1-1.3.8.jar` — gtnn-1.20.1-1.3.8.jar (v?, 8.3 MB)
 - `guideme-20.1.15.jar` — guideme-20.1.15.jar (v?, 9.0 MB)
 - `inventoryessentials-forge-1.20.1-8.2.17.jar` — Inventory Essentials (v8.2.17, 0.2 MB)
