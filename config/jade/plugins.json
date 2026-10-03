@@ -132,6 +132,9 @@
     "maid": true,
     "shrine_lamp": true
   },
+  "gregtech": {
+    "harvest_level": true
+  },
   "ae2cs": {
     "jade/ender_broadcaster": true,
     "jade/mirror_pattern_provider": true,
