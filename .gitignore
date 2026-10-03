@@ -28,6 +28,13 @@
 /_removed_mods/
 /_patch*/
 
+# ---------- 第三方 mod jar（体积 226MB） ----------
+# 说明：第三方 mod 不入库，改走 GitHub Releases 附件（见 README「安装指南」）。
+# 自研 mod（gtoecore / packcompanion）体积仅 271KB，保留入库以便追踪版本。
+/mods/*.jar
+!/mods/gtoecore-*.jar
+!/mods/packcompanion-*.jar
+
 # ---------- 启动器/游戏本体运行时文件（好友用启动器自动下载） ----------
 /assets/
 /libraries/
