@@ -29,19 +29,23 @@
 
 ## 安装指南
 
-### 方式一：从 GitHub 克隆（推荐协作者使用）
+### 方式一：从 GitHub 克隆（推荐）
 
 ```bash
-git clone <仓库地址> GT-New
+git clone https://github.com/nacelllur/GregTech-Orbital-Era.git GT-New
 ```
 
-将克隆下来的文件夹放到你的 Minecraft 启动器实例目录中（如 HMCL / Prism Launcher / PCL2），确保 `mods/`、`config/` 等目录位于实例根目录下。
+将克隆下来的文件夹放到你的 Minecraft 启动器实例目录中（如 HMCL / Prism Launcher / PCL2）。
 
-然后用启动器安装 **Forge 1.20.1-47.4.18**，启动游戏即可。
+**然后还需一步**：前往 [Releases](../../releases) 页面下载 **`GTOE-third-party-mods-*.zip`** 附件
+（第三方 86 个 mod，体积 235MB，因仓库体积限制不入库），解压到 `mods/` 文件夹。
+自研 mod（`gtoecore` / `packcompanion`）已随仓库自带，无需重复放置。
 
-### 方式二：下载 Release 压缩包
+最后用启动器安装 **Forge 1.20.1-47.4.18**，启动游戏即可。
 
-前往 [Releases](../../releases) 页面下载 `.zip` 压缩包，解压到启动器实例目录。
+### 方式二：下载 Release 完整压缩包
+
+前往 [Releases](../../releases) 页面下载完整压缩包（含全部 mod），解压到启动器实例目录即可。
 
 ## 整合包亮点
 
@@ -56,7 +60,7 @@ git clone <仓库地址> GT-New
 
 ```
 GT-New/
-├── mods/              # 88 个 mod（含前置）
+├── mods/              # 仅自研 mod（gtoecore / packcompanion）；第三方 86 个走 Releases 附件
 ├── config/            # 全部 mod 配置（含 FancyMenu 美化）
 │   └── fancymenu/     # 主菜单 HUD 贴图与布局
 ├── defaultconfigs/    # 默认配置
@@ -65,6 +69,9 @@ GT-New/
 ├── tlm_custom_pack/   # 东方女仆自定义包
 └── schematics/        # 建筑蓝图
 ```
+
+> **为什么 mods 里只有两个 jar？** 第三方 mod 合计 235MB，放在 git 里会让仓库膨胀近 10 倍、clone 极慢。
+> 因此改走 Releases 附件分发（见上方安装指南），仓库只保留自研 mod（271KB）以便追踪版本。
 
 ## FancyMenu 美化说明
 
