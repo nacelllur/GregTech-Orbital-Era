@@ -7,7 +7,7 @@ EnableLangFile {
 LanguageFile {
 	gt.td.long.atomic.metal=Metal
 	loot.pyramidJungleDispenser=-Dispenser-
-	gt.lang.has.shapeless=Has Shapeless Recipes with Amounts: 
+	gt.lang.has.shapeless=Has Shapeless Recipes with Amounts:
 	gt.lang.thaumcraft.warp=Tools made of this cause Warp to the Wielder
 	gt.td.short.prefix.ore_processing_refined=Ore Processing Refined
 	gt.td.long.prefix.standard_ore=Standard Ore
@@ -76,11 +76,11 @@ LanguageFile {
 	gt.lang.sandwichable=Is a valid Sandwich Ingredient
 	gt.td.long.atomic.nickel_group=Nickel Group
 	gt.lang.spawnproof.sp.bug=Mobs cannot, but should Spawn on this Block.
-	gt.lang.ammo.enchants=Ammo: 
+	gt.lang.ammo.enchants=Ammo:
 	loot.pyramidDesertyChest=*Desert Pyramid*
 	gt.lang.time.seconds=Seconds
 	gt.lang.tool.tooltip.shears=
-	gt.lang.proof.heat=Can handle Temperatures up to: 
+	gt.lang.proof.heat=Can handle Temperatures up to:
 	gt.lang.betweenlands.resist=Resistant to the rotting Effects of the Betweenlands
 	gt.lang.recipes.sifter.usage=Place Input on Top and rightclick it
 	gt.td.long.atomic.icosagen=Icosagen
@@ -107,7 +107,7 @@ LanguageFile {
 	gt.td.short.atomic.lanthanide=Lanthanide
 	gt.td.short.prefix.standard_ore=Standard Ore
 	gt.td.long.processing.washing_firestone=Firestone Washable
-	gt.lang.pipe.stats.amount=Amount of Pipes: 
+	gt.lang.pipe.stats.amount=Amount of Pipes:
 	gt.td.long.atomic.alkaline_earth_metal=Alkaline Earth Metal
 	gt.lang.energy.convert.to=into
 	gt.lang.tool.name.saw=Saw
@@ -115,7 +115,7 @@ LanguageFile {
 	gt.lang.tool.tooltip.sense=Used to mass harvest Crops and Leaves
 	gt.td.long.atomic.particle=Particle
 	gt.td.long.prefix.no_prefix_filtering=Not Prefix Filterable
-	gt.lang.pipe.stats.range=Range: 
+	gt.lang.pipe.stats.range=Range:
 	gt.td.long.atomic.alkali_metal=Alkali Metal
 	gt.lang.pistonpush=Pistons can push this Block
 	gt.td.short.prefix.tool_head=Tool Head
@@ -125,7 +125,7 @@ LanguageFile {
 	gt.td.short.compounds.coated=Coated
 	tc.aspect.strontio=Stupidness, Incompetence
 	gt.td.long.properties.stretchy=Stretchy
-	gt.lang.wire.stats.amperage=Amperage: 
+	gt.lang.wire.stats.amperage=Amperage:
 	gt.lang.emits.redstoneflux.lossy=Can emit Redstone Flux (RF) with a Loss of
 	gt.lang.prospecting.lava=There is Lava behind this Rock
 	loot.mineshaftCorridor=+Mineshaft+
@@ -133,7 +133,7 @@ LanguageFile {
 	gt.td.short.atomic.chalcogen=Chalcogen
 	loot.twilightforest:stronghold_cache=-Stronghold-
 	gt.lang.face.back=Back
-	gt.lang.blastfortune=Blast Fortune Level: 
+	gt.lang.blastfortune=Blast Fortune Level:
 	gt.td.short.prefix.burnable=Burnable
 	gt.lang.hazard.leak.gas=Leaks when used with Gases!
 	loot.gt.misc=*Miscellaneous Items*
@@ -159,7 +159,7 @@ LanguageFile {
 	gt.td.short.atomic.manganese_group=Manganese Group
 	loot.gt.books=+Random Books+
 	gt.lang.use.soft.hammer.to.toggle=Use Soft Hammer to toggle States
-	gt.lang.use.x.to.toggle.facing2.pre=Use 
+	gt.lang.use.x.to.toggle.facing2.pre=Use
 	gt.lang.use.builder.wand.to.ease.building=Use Builder Wand to ease building
 	gt.td.short.properties.brittle=Brittle
 	gt.lang.time.minute=Minute
@@ -178,8 +178,8 @@ LanguageFile {
 	gt.td.long.atomic.polyatomic_nonmetal=Polyatomic Non-Metal
 	loot.twilightforest:aurora_cache=-Aurora Tower-
 	gt.lang.requirement.water=Requires input of Water!
-	gt.lang.prospecting.traces=Found traces of 
-	gt.lang.pipe.stats.bandwidth=Bandwidth: 
+	gt.lang.prospecting.traces=Found traces of
+	gt.lang.pipe.stats.bandwidth=Bandwidth:
 	gt.lang.proof.acid=Can handle Acids
 	gt.td.short.prefix.recyclable=Recyclable
 	gt.lang.tool.tooltip.screwdriver=Adjusts Covers, Machines and Redstone Diodes
@@ -267,7 +267,7 @@ LanguageFile {
 	loot.twilightforest:hedgemaze=-Hedge Maze-
 	gt.advcrafting.automation.access=Allow Automation to extract from the Crafting Grid
 	loot.twilightforest:aurora_boss=*Aurora Tower*
-	gt.lang.ranged.enchants=Ranged: 
+	gt.lang.ranged.enchants=Ranged:
 	gt.lang.face.front=Front
 	gt.td.short.atomic.particle=Particle
 	gt.lang.proof.gas=Can handle Gases
@@ -304,8 +304,8 @@ LanguageFile {
 	gt.lang.use.chisel.to.switch.design=Use Chisel to change Design
 	gt.lang.nogui.rightclick.inventory=No GUI. Click to insert/extract Items!
 	gt.lang.tool.name.plasmatorch=Plasma Torch
-	gt.lang.tool.enchants=Tool: 
-	gt.lang.wire.stats.voltage=Voltage: 
+	gt.lang.tool.enchants=Tool:
+	gt.lang.wire.stats.voltage=Voltage:
 	gt.td.long.properties.ignore_in_color_log=Ignored in Color Log
 	gt.td.short.prefix.gem_based=Gem
 	gt.td.long.atomic.cobalt_group=Cobalt Group
@@ -359,7 +359,7 @@ LanguageFile {
 	gt.lang.blast.resist.terrible=(Terrible)
 	gt.lang.face.any.but.back=Any but Back
 	gt.td.short.properties.invisible=Invisible
-	gt.lang.pipe.stats.stepsize=Stepsize: 
+	gt.lang.pipe.stats.stepsize=Stepsize:
 	gt.td.short.prefix.tool_alike=Tool
 	gt.td.short.properties.wither_proof=Wither Proof
 	gt.td.long.processing.electrolysable=Electrolysable
@@ -370,10 +370,10 @@ LanguageFile {
 	gt.lang.twilightforest.mazebreaking=Tools made of this can break Twilight Forest Mazes
 	gt.td.long.properties.wood=Wood
 	gt.lang.face.bottom=Bottom
-	gt.lang.wire.stats.loss=Loss: 
+	gt.lang.wire.stats.loss=Loss:
 	gt.td.short.processing.crucible_alloy=Crucible Alloyable
 	gt.td.long.properties.wither_proof=Wither Proof
-	gt.lang.furnacefuel=Fuel Value: 
+	gt.lang.furnacefuel=Fuel Value:
 	gt.td.short.prefix.no_prefix_filtering=Not Prefix Filterable
 	loot.twilightforest:troll_vault=+Troll Cave+
 	gt.td.long.properties.transparent=Transparent
@@ -413,7 +413,7 @@ LanguageFile {
 	gt.lang.blast.resist.tnt.proof=(TNT Proof)
 	gt.td.long.properties.unburnable=Unburnable
 	gt.lang.proof.plasma=Can handle Plasma
-	gt.lang.use.x.to.toggle.connection.pre=Use 
+	gt.lang.use.x.to.toggle.connection.pre=Use
 	gt.td.long.prefix.armor_alike=Armor
 	gt.td.long.properties.pearl=Pearl
 	gt.td.long.processing.soldering_material=Soldering Metal
@@ -438,7 +438,7 @@ LanguageFile {
 	gt.td.long.properties.crystal=Crystal
 	gt.td.long.processing.smithable=Smithable
 	gt.td.long.prefix.ore_processing_refined=Ore Processing Refined
-	gt.behaviour.rocks=Indicates occurence of 
+	gt.behaviour.rocks=Indicates occurence of
 	gt.td.short.processing.washing_persulfate=Persulfate Washable
 	gt.lang.tool.tooltip.sword=
 	gt.td.long.processing.melting=Meltable
@@ -505,7 +505,7 @@ LanguageFile {
 	loot.pyramidJungleChest=*Jungle Temple*
 	gt.td.long.atomic.refractory_metal=Refractory Metal
 	gt.lang.requirement.water.pure=Requires any Water. Use distilled Water for best efficiency!
-	gt.lang.fishing.enchants=Fishing: 
+	gt.lang.fishing.enchants=Fishing:
 	gt.td.long.processing.extrudable=Extrudable
 	loot.bonusChest=-Bonus Chest-
 	gt.td.short.properties.stretchy=Stretchy
@@ -523,17 +523,17 @@ LanguageFile {
 	gt.td.short.prefix.dust_ore=Dust Ore
 	gt.td.long.properties.valuable=Valuable
 	gt.lang.tool.tooltip.ducttape=
-	gt.lang.blastrange=Blast Range: 
+	gt.lang.blastrange=Blast Range:
 	gt.lang.reminder.extenders=Remember to use Universal Extenders if you need to literally cut Corners
 	gt.td.short.prefix.wire_based=Wire
-	gt.lang.blastresistance=Blast Resistance: 
+	gt.lang.blastresistance=Blast Resistance:
 	gt.lang.tool.tooltip.plow=
 	gt.td.long.atomic.noble_metal=Noble Metal
 	gt.td.long.prefix.wire_based=Wire
 	gt.td.short.atomic.element=Element
 	gt.td.short.processing.soldering_material_bad=Bad Soldering Metal
 	gt.td.short.prefix.tooltip_enchants=Enchantment Tooltip
-	gt.lang.axle.stats.power=Power: 
+	gt.lang.axle.stats.power=Power:
 	gt.td.long.prefix.tool_head=Tool Head
 	gt.td.long.prefix.simplifiable=Simplifiable
 	gt.td.long.properties.ender_dragon_proof=Ender Dragon Proof
@@ -545,11 +545,11 @@ LanguageFile {
 	gt.td.short.atomic.post_transition_metal=Post Transition Metal
 	gt.lang.use.x.to.toggle.facing2.post= to set secondary Facing
 	gt.lang.tool.tooltip.rotator=Rotating things
-	gt.lang.pipe.stats.capacity=Capacity: 
+	gt.lang.pipe.stats.capacity=Capacity:
 	gt.td.short.atomic.refractory_metal=Refractory Metal
 	gt.td.long.properties.flammable=Flammable
 	gt.lang.sealable.some=This Block can seal Air at some Sides
-	gt.lang.blastpower=Blast Power: 
+	gt.lang.blastpower=Blast Power:
 	gt.td.short.properties.valuable=Valuable
 	gt.td.short.prefix.ore_processing_based=Ore Processing Based
 	gt.lang.use.monkey.wrench.to.toggle.auto.inputs=Use Monkey Wrench to toggle automatic Inputs
@@ -565,12 +565,12 @@ LanguageFile {
 	gt.td.short.processing.washing_firestone=Firestone Washable
 	gt.td.short.atomic.metal=Metal
 	gt.td.short.properties.crystal=Crystal
-	gt.lang.pipe.stats.loss=Loss: 
+	gt.lang.pipe.stats.loss=Loss:
 	gt.lang.explosive=Explosive!
 	gt.lang.twilightforest.mazehedgebreaking=Can easily break Twilight Forest Maze Hedges
 	gt.td.long.properties.unused_material=Unused Material
 	gt.td.long.properties.magnetic_passive=Passively Magnetic
-	gt.lang.needs.handle=Requires Handle made of: 
+	gt.lang.needs.handle=Requires Handle made of:
 	gt.td.short.properties.quartz=Quartz
 	gt.td.long.prefix.dust_based=Dust
 	gt.td.long.properties.random_small_gem_ore=Random Small Gem Ore
@@ -598,7 +598,7 @@ LanguageFile {
 	gt.td.long.atomic.pnictogen=Pnictogen
 	gt.lang.enchantment.bonus=Can influence an Enchanting Table like a Bookshelf
 	gt.td.long.prefix.scannable=Scannable
-	gt.lang.thermal.mass=Thermal Mass: 
+	gt.lang.thermal.mass=Thermal Mass:
 	gt.td.long.processing.centrifugable=Centrifugable
 	gt.td.short.properties.unburnable=Unburnable
 	gt.td.short.prefix.ore_processing_dirty=Ore Processing Dirty
@@ -606,11 +606,11 @@ LanguageFile {
 	gt.td.short.prefix.needs_handle=Needs Handle
 	loot.twilightforest:stronghold_boss=*Stronghold*
 	gt.td.short.properties.soft=Soft
-	gt.lang.weapon.enchants=Weapon: 
-	gt.lang.armor.enchants=Armor: 
+	gt.lang.weapon.enchants=Weapon:
+	gt.lang.armor.enchants=Armor:
 	gt.td.long.properties.brittle=Brittle
 	gt.lang.use.screwdriver.to.toggle=Use Screwdriver to toggle Modes
-	gt.lang.railspeed=Rail Speed: 
+	gt.lang.railspeed=Rail Speed:
 	gt.td.long.properties.dont_show_this_component=Not shown as Component
 	gt.lang.requirement.air.front=Requires Air in front to work!
 	gt.lang.tool.name.grafter=Grafter
@@ -631,15 +631,15 @@ LanguageFile {
 	gt.lang.tool.tooltip.plasmatorch=
 	gt.td.long.prefix.ammo_alike=Ammo
 	tc.aspect.electrum=Electricity, Lightning
-	gt.lang.axle.stats.speed=Speed: 
+	gt.lang.axle.stats.speed=Speed:
 	gt.td.short.atomic.actinide=Actinide
 	gt.td.long.properties.betweenlands=Betweenlands
 	gt.lang.requirement.molten.calcite=Requires to be filled with Molten Calcite!
-	gt.lang.tool.possible.enchants=Possible Enchantments: 
+	gt.lang.tool.possible.enchants=Possible Enchantments:
 	gt.td.long.atomic.halogen=Halogen
 	gt.td.short.prefix.self_referencing=Self Referencing
 	gt.td.short.prefix.storage_based=Storage Based
-	gt.lang.use.x.to.toggle.facing.pre=Use 
+	gt.lang.use.x.to.toggle.facing.pre=Use
 	gt.lang.hazard.explosion.steam=Explodes when Steam Pressure is too high!
 	gt.lang.tool.tooltip.axe=Can remove Bark from Logs
 	gt.td.long.processing.crystallisable=Crystallisable
@@ -5796,7 +5796,7 @@ LanguageFile {
 	gt.meta.ore.small.bp.marble.32767=Any Sub-Block of this one
 	gt.display.fluid=Fluid Display
 	gt.integrated_circuit=Selector Tag
-	gt.integrated_circuit.configuration=Configuration: 
+	gt.integrated_circuit.configuration=Configuration:
 	gt.empty_slot=Empty Slot
 	gt.empty_slot.tooltip_main=This Slot has to be left Empty
 	gt.armor.hazmat.insect.head=Bumblehead
@@ -6407,7 +6407,7 @@ LanguageFile {
 	gt.metatool.01.50.tooltip=
 	gt.metatool.01.51=Flint and Tinder (Empty)
 	gt.metatool.01.51.tooltip=You need to recharge it
-	gt.behaviour.flintandtinder=Ignites a Fire with a Chance of 
+	gt.behaviour.flintandtinder=Ignites a Fire with a Chance of
 	gt.metatool.01.52=Monkey Wrench
 	gt.metatool.01.52.tooltip=Hold Leftclick to dismantle Machines
 	gt.metatool.01.53=Monkey Wrench (Empty)
@@ -94787,7 +94787,7 @@ LanguageFile {
 	itemGroup.gt.multitileentity.32745=Chests
 	gt.multitileentity.32751=Storage Inserter
 	itemGroup.gt.multitileentity.32751=Storage
-	gt.multitileentity.massstorage.tooltip.1=Can store Items of one Type, Capacity: 
+	gt.multitileentity.massstorage.tooltip.1=Can store Items of one Type, Capacity:
 	gt.multitileentity.massstorage.tooltip.2=Can be used adjacent to Advanced Crafting Tables
 	gt.multitileentity.6998=Wooden Item Barrel (Cheap)
 	gt.multitileentity.6992=Wooden Item Barrel (Cheap)
@@ -95422,8 +95422,8 @@ LanguageFile {
 	itemGroup.gt.multitileentity.17997=Logistics
 	gt.multitileentity.7100=Bookshelf (铅)
 	gt.multitileentity.8600=Bottlecrate (铅)
-	gt.multitileentity.hopper.tooltip.1=Slot Count: 
-	gt.multitileentity.hopper.tooltip.2=Specified Stacksize: 
+	gt.multitileentity.hopper.tooltip.1=Slot Count:
+	gt.multitileentity.hopper.tooltip.2=Specified Stacksize:
 	gt.multitileentity.hopper.tooltip.3=Exact Insertion Mode
 	gt.multitileentity.8000=铅 Hopper
 	itemGroup.gt.multitileentity.8010=Hoppers
@@ -97236,7 +97236,7 @@ LanguageFile {
 	gt.multitileentity.17202=Titanium Boiler Main Barometer
 	gt.multitileentity.17203=Tungstensteel Boiler Main Barometer
 	gt.multitileentity.17204=Adamantium Boiler Main Barometer
-	gt.tooltip.multiblock.steamturbine.1=3x3x4 of 35 
+	gt.tooltip.multiblock.steamturbine.1=3x3x4 of 35
 	gt.tooltip.multiblock.steamturbine.2=Main centered on the 3x3 facing outwards
 	gt.tooltip.multiblock.steamturbine.3=Input only possible at frontal 3x3
 	gt.tooltip.multiblock.steamturbine.4=Distilled Water can be pumped out at Bottom Layer
@@ -97251,7 +97251,7 @@ LanguageFile {
 	gt.multitileentity.17222=Titanium Dynamo Main Housing
 	gt.multitileentity.17223=Tungstensteel Dynamo Main Housing
 	gt.multitileentity.17224=Adamantium Dynamo Main Housing
-	gt.tooltip.multiblock.gasturbine.1=3x3x4 of 35 
+	gt.tooltip.multiblock.gasturbine.1=3x3x4 of 35
 	gt.tooltip.multiblock.gasturbine.2=Main centered on the 3x3 facing outwards
 	gt.tooltip.multiblock.gasturbine.3=Input only possible at frontal 3x3
 	gt.tooltip.multiblock.gasturbine.4=Exhaust Gas has to be removed!
@@ -99982,7 +99982,7 @@ LanguageFile {
 	written.book.Manual_Elements.page.107=MacGuffium¶239/665¶===================¶ID: 2390¶Melting: 200 K¶Boiling: 1000 K¶Plasma: 100000 K¶===================¶Density:¶3.122 g/cm3¶346.88888854199996 kg/unit¶===================¶
 	written.book.Manual_Elements.page.108=重力子素¶372/1330¶===================¶ID: 3720¶Melting: 112 K¶Boiling: 1275 K¶Plasma: 127500 K¶===================¶Density:¶1768.866761 g/cm3¶196540.75102568147 kg/unit¶===================¶
 	written.book.Manual_Elements.page.109=锗¶32/40¶===================¶ID: 320¶Melting: 1211 K¶Boiling: 3106 K¶Plasma: 310600 K¶===================¶Density:¶5.323 g/cm3¶591.444443853 kg/unit¶===================¶
-	written.book.Manual_Extenders.page.0=This Manual covers Extenders as well as Filters. It will explain the usage of those Devices in Detail, so that you can use them easily. 
+	written.book.Manual_Extenders.page.0=This Manual covers Extenders as well as Filters. It will explain the usage of those Devices in Detail, so that you can use them easily.
 	written.book.Manual_Extenders.page.1=First a Declaration of Faces any Filter and Extender have. The Main Facing is the Facing you can set using the Wrench and which has 4 Dots around the center Pipe.
 	written.book.Manual_Extenders.page.2=The Secondary Facing is the one with the outwards pointing Arrows, that is set using the Monkey Wrench. And the other Sides of the Extender/Filter are the Neutral Facings.
 	written.book.Manual_Extenders.page.3=Now that this is clear, we can go for the Functionality. Basically ANYTHING that 'interacts' (* explained later) with the Extender through a Neutral or Secondary Facing will get redirected to the TileEntity at the Main Facing.
